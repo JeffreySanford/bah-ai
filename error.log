@@ -1,0 +1,11 @@
+
+ NX  Generating nx:connect-to-nx-cloud
+
+
+ NX   unable to get local issuer certificate
+
+Pass --verbose to see the stacktrace.
+
+
+(node:15800) [DEP0180] DeprecationWarning: fs.Stats constructor is deprecated.
+(Use `node --trace-deprecation ...` to show where the warning was created)
