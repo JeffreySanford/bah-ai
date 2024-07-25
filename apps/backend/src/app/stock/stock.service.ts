@@ -1,7 +1,7 @@
 import { Injectable } from '@nestjs/common';
 import { InjectModel } from '@nestjs/mongoose';
 import { Model } from 'mongoose';
-// import { Stock } from './interfaces/stock.interface';
+import { Stock } from './interfaces/stock.interface';
 
 @Injectable()
 export class StockService {
