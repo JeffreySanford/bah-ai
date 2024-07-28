@@ -1,7 +1,4 @@
 export interface StockModel {
-    symbol: string;
-    name: string;
-    price: number;
-    change: number;
-    // Add other properties as needed
-  }
+  mockStocks: Array<{ symbol: string; price: number; volume: number }>;
+  mockCryptos: Array<{ symbol: string; price: number; volume: number }>;
+}

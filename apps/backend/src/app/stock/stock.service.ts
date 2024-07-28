@@ -11,7 +11,20 @@ export class StockService {
   constructor(
     @InjectModel('Stock') private readonly stockModel: Model<StockModel>,
     private readonly finnhubService: FinnhubService
-  ) {}
+  ) {
+    this.stockModel.create({
+      mockStocks: [
+        { symbol: 'AAPL', price: 150, volume: 10000 },
+        { symbol: 'GOOGL', price: 2800, volume: 5000 },
+        { symbol: 'AMZN', price: 3400, volume: 3000 },
+      ],
+      mockCryptos: [
+        { symbol: 'BTC', price: 45000, volume: 2000 },
+        { symbol: 'ETH', price: 3000, volume: 10000 },
+        { symbol: 'DOGE', price: 0.25, volume: 500000 },
+      ],
+    });
+  }
 
   @Cron(CronExpression.EVERY_DAY_AT_5AM)
   handleCron() {
