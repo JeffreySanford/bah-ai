@@ -1,4 +1,11 @@
+import { Observable } from 'rxjs';
+
 export interface StockModel {
-  mockStocks: Array<{ symbol: string; price: number; volume: number }>;
-  mockCryptos: Array<{ symbol: string; price: number; volume: number }>;
+  id: number,
+  name: string;
+  symbol: string; 
+  price: number; 
+  volume: number;
+
+  create(stock: { id: string, name: string, symbol: string; price: number; volume: number }): Observable<{ symbol: string; price: number; volume: number }>;
 }

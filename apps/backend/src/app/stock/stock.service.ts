@@ -40,6 +40,10 @@ export class StockService {
     });
   }
 
+  find(symbol: string): Observable<StockModel | null> {
+    return from(this.stockModel.findOne().where('symbol').equals(symbol).exec()) as Observable<StockModel | null>;
+  }
+
   findAll(): Observable<StockModel[]> {
     return from(this.stockModel.find().exec());
   }
