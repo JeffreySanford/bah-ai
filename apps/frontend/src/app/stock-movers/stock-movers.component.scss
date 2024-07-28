@@ -1,0 +1,23 @@
+// Style the d3 elements
+.d3-element {
+  // Add your styles here
+  // For example:
+  fill: blue;
+  stroke: red;
+  // ...
+}
+
+#pieChart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  border: 5px solid red;
+}
+
+table {
+  border: 1px solid blue;
+  width: 100%;
+  border-collapse: collapse;
+}

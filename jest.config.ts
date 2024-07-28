@@ -1,5 +1,7 @@
-import { getJestProjectsAsync } from '@nx/jest';
-
-export default async () => ({
-  projects: await getJestProjectsAsync(),
-});
+module.exports = {
+  transform: {
+    '^.+\\.tsx?$': 'ts-jest',
+    '^.+\\.jsx?$': 'babel-jest', // Add this line to transform ES modules
+  },
+  testEnvironment: 'jsdom', // Ensure the test environment is set to jsdom
+};

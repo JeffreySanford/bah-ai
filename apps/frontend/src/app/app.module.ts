@@ -3,17 +3,21 @@ import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { AppComponent } from './app.component';
 import { appRoutes } from './app.routes';
-import { MatToolbarModule } from '@angular/material/toolbar';
-import { MatCardModule } from '@angular/material/card';
 import { StockMoversComponent } from './stock-movers/stock-movers.component';
+import { MaterialModule } from './material.module';
+import { HttpClientModule } from '@angular/common/http';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { StocksModule } from './stocks/stocks.module';
 
 @NgModule({
   declarations: [AppComponent, StockMoversComponent],
   imports: [
     BrowserModule,
+    BrowserAnimationsModule,
     RouterModule.forRoot(appRoutes),
-    MatToolbarModule,
-    MatCardModule,
+    HttpClientModule,
+    MaterialModule,
+    StocksModule
   ],
   providers: [],
   bootstrap: [AppComponent],

@@ -5,6 +5,7 @@ import { HttpModule } from '@nestjs/axios';
 import { StockService } from './stock/stock.service';
 import { StockSchema } from './stock/stock.schema';
 import { FinnhubService } from './stock/finnhub/finnhub.service';
+import { StockController } from './stock/stock.controller';
 
 @Module({
   imports: [
@@ -13,6 +14,7 @@ import { FinnhubService } from './stock/finnhub/finnhub.service';
     ScheduleModule.forRoot(),
     HttpModule
   ],
+  controllers: [StockController],
   providers: [StockService, FinnhubService],
 })
 export class AppModule {}

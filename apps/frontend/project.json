@@ -8,12 +8,16 @@
   "targets": {
     "build": {
       "executor": "@angular-devkit/build-angular:application",
-      "outputs": ["{options.outputPath}"],
+      "outputs": [
+        "{options.outputPath}"
+      ],
       "options": {
         "outputPath": "dist/apps/frontend",
         "index": "apps/frontend/src/index.html",
         "browser": "apps/frontend/src/main.ts",
-        "polyfills": ["zone.js"],
+        "polyfills": [
+          "zone.js"
+        ],
         "tsConfig": "apps/frontend/tsconfig.app.json",
         "inlineStyleLanguage": "scss",
         "assets": [
@@ -22,7 +26,10 @@
             "input": "apps/frontend/public"
           }
         ],
-        "styles": ["apps/frontend/src/styles.scss"],
+        "styles": [
+          "@angular/material/prebuilt-themes/azure-blue.css",
+          "apps/frontend/src/styles.scss"
+        ],
         "scripts": []
       },
       "configurations": {
@@ -75,14 +82,28 @@
     },
     "test": {
       "executor": "@nx/jest:jest",
-      "outputs": ["{workspaceRoot}/coverage/{projectRoot}"],
+      "outputs": [
+        "{workspaceRoot}/coverage/{projectRoot}"
+      ],
       "options": {
         "jestConfig": "apps/frontend/jest.config.ts"
       }
     }
   },
   "schematics": {
-    "@nrwl/angular:application": { "standalone": false },
-    "@nrwl/angular:component": { "standalone": false }
+    "@nrwl/angular:application": {
+      "standalone": false
+    },
+    "@nrwl/angular:component": {
+      "standalone": false
+    }
+  },
+  "generators": {
+    "@nrwl/angular:application": {
+      "standalone": false
+    },
+    "@nrwl/angular:component": {
+      "standalone": false
+    }
   }
 }

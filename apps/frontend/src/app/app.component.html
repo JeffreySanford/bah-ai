@@ -8,7 +8,12 @@
       <p>This application demonstrates models for Computer Vision and NLP.</p>
     </mat-card-content>
   </mat-card>
-  <!-- <app-performance-chart [data]="models"></app-performance-chart> -->
+  <mat-nav-list>
+    <a mat-list-item routerLink="/computer-vision" routerLinkActive="active">Computer Vision</a>
+    <a mat-list-item routerLink="/nlp" routerLinkActive="active">NLP</a>
+  </mat-nav-list>
+  
+  <app-stock-movers></app-stock-movers> 
 </div>
 
 <router-outlet></router-outlet>

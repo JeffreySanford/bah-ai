@@ -9,12 +9,12 @@ describe('StockMoversComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       declarations: [StockMoversComponent],
-      imports: [HttpClientTestingModule], // Ensure HttpClientTestingModule is imported
+      imports: [HttpClientTestingModule],
     }).compileComponents();
 
     fixture = TestBed.createComponent(StockMoversComponent);
     component = fixture.componentInstance;
-    fixture.detectChanges(); // Ensure detectChanges is called after component instance creation
+    fixture.detectChanges();
   });
 
   it('should create', () => {
