@@ -3,8 +3,8 @@
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
-    "prestart": "node checkMongo.js",
-    "start": "nest start"
+    "start": "nest start",
+    "postinstall": "node ./apps/backend/checkMongo.js"
   },
   "private": true,
   "dependencies": {
@@ -29,11 +29,11 @@
     "axios": "^1.6.0",
     "chart.js": "^4.4.3",
     "d3": "^7.9.0",
-    "mongoose": "^8.5.1",
     "ng2-charts": "^6.0.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
+    "winston": "^3.13.1",
     "zone.js": "~0.14.3"
   },
   "devDependencies": {
@@ -82,10 +82,11 @@
     "jest-environment-jsdom": "^29.4.1",
     "jest-environment-node": "^29.4.1",
     "jest-preset-angular": "~14.1.0",
+    "mongoose": "^8.5.1",
     "nx": "19.4.3",
     "prettier": "^2.6.2",
     "ts-jest": "^29.2.3",
-    "ts-node": "10.9.1",
+    "ts-node": "^10.9.2",
     "typescript": "~5.4.2",
     "webpack-cli": "^5.1.4"
   }
