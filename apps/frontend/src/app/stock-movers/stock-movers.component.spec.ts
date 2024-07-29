@@ -1,6 +1,9 @@
+import 'web-animations-js';  // Add this import
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { StockMoversComponent } from './stock-movers.component';
 import { HttpClientTestingModule } from '@angular/common/http/testing';
+import { MaterialModule } from '../material.module';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 describe('StockMoversComponent', () => {
   let component: StockMoversComponent;
@@ -9,7 +12,11 @@ describe('StockMoversComponent', () => {
   beforeEach(async () => {
     await TestBed.configureTestingModule({
       declarations: [StockMoversComponent],
-      imports: [HttpClientTestingModule],
+      imports: [
+        HttpClientTestingModule,
+        BrowserAnimationsModule,
+        MaterialModule
+      ],
     }).compileComponents();
 
     fixture = TestBed.createComponent(StockMoversComponent);

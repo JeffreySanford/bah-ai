@@ -1,7 +1,11 @@
 module.exports = {
+  preset: 'ts-jest',
+  testEnvironment: 'jsdom',
   transform: {
-    '^.+\\.tsx?$': 'ts-jest',
-    '^.+\\.jsx?$': 'babel-jest', // Add this line to transform ES modules
+    '^.+\\.(ts|tsx)$': 'ts-jest',
+    '^.+\\.(js|jsx)$': 'babel-jest',
   },
-  testEnvironment: 'jsdom', // Ensure the test environment is set to jsdom
+  transformIgnorePatterns: [
+    'node_modules/(?!d3)',
+  ],
 };
