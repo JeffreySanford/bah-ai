@@ -11,7 +11,9 @@ export class FinnhubService {
   constructor(private readonly httpService: HttpService) {}
 
   getStockData(symbol: string): Observable<any> {
-    const url = `${this.baseUrl}/quote?symbol=${symbol}&token=${this.apiKey}`;
+    const url = `${this.baseUrl}/stock/symbol?exchange=US&token=${this.apiKey}`;
+    
+    console.log(url);
     return this.httpService.get(url).pipe(map(response => response.data));
   }
 

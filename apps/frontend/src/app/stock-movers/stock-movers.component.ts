@@ -16,7 +16,6 @@ export class StockMoversComponent implements OnInit {
 
   ngOnInit(): void {
     this.http.get('/api/stocks/movers').subscribe((data: any) => {
-      debugger
       this.dataSource.data = data;
       this.createChart(data);
     });
