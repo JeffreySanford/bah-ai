@@ -8,10 +8,9 @@ import { MaterialModule } from './material.module';
 import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { StocksModule } from './stocks/stocks.module';
-import { StocksComponent } from './stocks/stocks.component';
 
 @NgModule({
-  declarations: [AppComponent, StockMoversComponent, StocksComponent],
+  declarations: [AppComponent, StockMoversComponent],
   imports: [
     BrowserModule,
     BrowserAnimationsModule,
