@@ -1,0 +1,48 @@
+/* Add some padding and margin to the table container */
+.mat-elevation-z8 {
+    margin: 20px;
+    padding: 20px;
+    background: white;
+    border-radius: 8px;
+  }
+  
+  /* Style the table headers */
+  .mat-header-cell {
+    font-weight: bold;
+    background-color: #f5f5f5;
+  }
+  
+  /* Style the table rows */
+  .mat-row {
+    &:nth-child(odd) {
+      background-color: #f9f9f9;
+    }
+  }
+  
+  /* Style the paginator */
+  .mat-paginator {
+    background-color: #f5f5f5;
+    border-top: 1px solid #e0e0e0;
+  }
+  
+  /* Style the filter input */
+  mat-form-field {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  input.mat-input-element {
+    padding: 10px;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+  }
+  
+  /* Add some hover effects */
+  .mat-row:hover {
+    background-color: #e0e0e0;
+  }
+  
+  /* Style the sorting icons */
+  .mat-sort-header-arrow {
+    color: #3f51b5;
+  }

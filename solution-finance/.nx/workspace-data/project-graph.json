@@ -1,0 +1,643 @@
+{
+  "nodes": {
+    "solution-finance-e2e": {
+      "name": "solution-finance-e2e",
+      "type": "e2e",
+      "data": {
+        "root": "apps/solution-finance-e2e",
+        "targets": {},
+        "name": "solution-finance-e2e",
+        "$schema": "../../node_modules/nx/schemas/project-schema.json",
+        "projectType": "application",
+        "sourceRoot": "apps/solution-finance-e2e/src",
+        "implicitDependencies": [
+          "solution-finance"
+        ],
+        "tags": []
+      }
+    },
+    "solution-finance": {
+      "name": "solution-finance",
+      "type": "app",
+      "data": {
+        "root": "apps/solution-finance",
+        "targets": {
+          "build": {
+            "executor": "@angular-devkit/build-angular:application",
+            "cache": true,
+            "dependsOn": [
+              "^build"
+            ],
+            "inputs": [
+              "production",
+              "^production"
+            ],
+            "outputs": [
+              "{options.outputPath}"
+            ],
+            "options": {
+              "outputPath": "dist/apps/solution-finance",
+              "index": "apps/solution-finance/src/index.html",
+              "browser": "apps/solution-finance/src/main.ts",
+              "polyfills": [
+                "zone.js"
+              ],
+              "tsConfig": "apps/solution-finance/tsconfig.app.json",
+              "inlineStyleLanguage": "scss",
+              "assets": [
+                {
+                  "glob": "**/*",
+                  "input": "apps/solution-finance/public"
+                }
+              ],
+              "styles": [
+                "apps/solution-finance/src/styles.scss"
+              ],
+              "scripts": []
+            },
+            "configurations": {
+              "production": {
+                "budgets": [
+                  {
+                    "type": "initial",
+                    "maximumWarning": "500kb",
+                    "maximumError": "1mb"
+                  },
+                  {
+                    "type": "anyComponentStyle",
+                    "maximumWarning": "2kb",
+                    "maximumError": "4kb"
+                  }
+                ],
+                "outputHashing": "all"
+              },
+              "development": {
+                "optimization": false,
+                "extractLicenses": false,
+                "sourceMap": true
+              }
+            },
+            "defaultConfiguration": "production"
+          },
+          "lint": {
+            "executor": "@nx/eslint:lint",
+            "cache": true,
+            "inputs": [
+              "default",
+              "{workspaceRoot}/.eslintrc.json",
+              "{workspaceRoot}/.eslintignore",
+              "{workspaceRoot}/eslint.config.js"
+            ],
+            "options": {},
+            "configurations": {}
+          },
+          "test": {
+            "executor": "@nx/jest:jest",
+            "cache": true,
+            "inputs": [
+              "default",
+              "^production",
+              "{workspaceRoot}/jest.preset.js"
+            ],
+            "outputs": [
+              "{workspaceRoot}/coverage/{projectRoot}"
+            ],
+            "options": {
+              "passWithNoTests": true,
+              "jestConfig": "apps/solution-finance/jest.config.ts"
+            },
+            "configurations": {
+              "ci": {
+                "ci": true,
+                "codeCoverage": true
+              }
+            }
+          },
+          "serve": {
+            "executor": "@angular-devkit/build-angular:dev-server",
+            "configurations": {
+              "production": {
+                "buildTarget": "solution-finance:build:production"
+              },
+              "development": {
+                "buildTarget": "solution-finance:build:development"
+              }
+            },
+            "defaultConfiguration": "development",
+            "options": {}
+          },
+          "extract-i18n": {
+            "executor": "@angular-devkit/build-angular:extract-i18n",
+            "options": {
+              "buildTarget": "solution-finance:build"
+            },
+            "configurations": {}
+          }
+        },
+        "name": "solution-finance",
+        "$schema": "../../node_modules/nx/schemas/project-schema.json",
+        "projectType": "application",
+        "prefix": "app",
+        "sourceRoot": "apps/solution-finance/src",
+        "tags": [],
+        "implicitDependencies": []
+      }
+    },
+    "frontend-e2e": {
+      "name": "frontend-e2e",
+      "type": "e2e",
+      "data": {
+        "root": "apps/frontend-e2e",
+        "metadata": {
+          "targetGroups": {
+            "E2E (CI)": [
+              "e2e-ci--src/example.spec.ts",
+              "e2e-ci"
+            ]
+          }
+        },
+        "targets": {
+          "e2e": {
+            "options": {
+              "cwd": "apps/frontend-e2e",
+              "command": "playwright test"
+            },
+            "metadata": {
+              "technologies": [
+                "playwright"
+              ],
+              "description": "Runs Playwright Tests",
+              "help": {
+                "command": "npx playwright test --help",
+                "example": {
+                  "options": {
+                    "workers": 1
+                  }
+                }
+              }
+            },
+            "cache": true,
+            "inputs": [
+              "default",
+              "^production",
+              {
+                "externalDependencies": [
+                  "@playwright/test"
+                ]
+              }
+            ],
+            "outputs": [
+              "{workspaceRoot}\\dist\\.playwright\\apps\\frontend-e2e\\playwright-report",
+              "{workspaceRoot}\\dist\\.playwright\\apps\\frontend-e2e\\test-output"
+            ],
+            "executor": "nx:run-commands",
+            "configurations": {}
+          },
+          "e2e-ci--src/example.spec.ts": {
+            "options": {
+              "cwd": "apps/frontend-e2e",
+              "command": "playwright test src/example.spec.ts"
+            },
+            "metadata": {
+              "technologies": [
+                "playwright"
+              ],
+              "description": "Runs Playwright Tests in src/example.spec.ts in CI",
+              "help": {
+                "command": "npx playwright test --help",
+                "example": {
+                  "options": {
+                    "workers": 1
+                  }
+                }
+              }
+            },
+            "cache": true,
+            "inputs": [
+              "default",
+              "^production",
+              {
+                "externalDependencies": [
+                  "@playwright/test"
+                ]
+              }
+            ],
+            "outputs": [
+              "{workspaceRoot}\\dist\\.playwright\\apps\\frontend-e2e\\playwright-report",
+              "{workspaceRoot}\\dist\\.playwright\\apps\\frontend-e2e\\test-output"
+            ],
+            "executor": "nx:run-commands",
+            "configurations": {}
+          },
+          "e2e-ci": {
+            "executor": "nx:noop",
+            "cache": true,
+            "inputs": [
+              "default",
+              "^production",
+              {
+                "externalDependencies": [
+                  "@playwright/test"
+                ]
+              }
+            ],
+            "outputs": [
+              "{workspaceRoot}\\dist\\.playwright\\apps\\frontend-e2e\\playwright-report",
+              "{workspaceRoot}\\dist\\.playwright\\apps\\frontend-e2e\\test-output"
+            ],
+            "dependsOn": [
+              {
+                "target": "e2e-ci--src/example.spec.ts",
+                "projects": "self",
+                "params": "forward"
+              }
+            ],
+            "metadata": {
+              "technologies": [
+                "playwright"
+              ],
+              "description": "Runs Playwright Tests in CI",
+              "nonAtomizedTarget": "e2e",
+              "help": {
+                "command": "npx playwright test --help",
+                "example": {
+                  "options": {
+                    "workers": 1
+                  }
+                }
+              }
+            },
+            "options": {},
+            "configurations": {}
+          }
+        },
+        "name": "frontend-e2e",
+        "$schema": "../../node_modules/nx/schemas/project-schema.json",
+        "projectType": "application",
+        "sourceRoot": "apps/frontend-e2e/src",
+        "implicitDependencies": [
+          "frontend"
+        ],
+        "tags": []
+      }
+    },
+    "backend-e2e": {
+      "name": "backend-e2e",
+      "type": "e2e",
+      "data": {
+        "root": "apps/backend-e2e",
+        "targets": {
+          "e2e": {
+            "executor": "@nx/jest:jest",
+            "cache": true,
+            "inputs": [
+              "default",
+              "^production",
+              "{workspaceRoot}/jest.preset.js"
+            ],
+            "outputs": [
+              "{workspaceRoot}/coverage/{e2eProjectRoot}"
+            ],
+            "options": {
+              "passWithNoTests": true,
+              "jestConfig": "apps/backend-e2e/jest.config.ts"
+            },
+            "dependsOn": [
+              "backend:build"
+            ],
+            "configurations": {
+              "ci": {
+                "ci": true,
+                "codeCoverage": true
+              }
+            }
+          }
+        },
+        "name": "backend-e2e",
+        "$schema": "../../node_modules/nx/schemas/project-schema.json",
+        "projectType": "application",
+        "implicitDependencies": [
+          "backend"
+        ],
+        "tags": []
+      }
+    },
+    "frontend": {
+      "name": "frontend",
+      "type": "app",
+      "data": {
+        "root": "apps/frontend",
+        "targets": {
+          "build": {
+            "executor": "@angular-devkit/build-angular:application",
+            "cache": true,
+            "dependsOn": [
+              "^build"
+            ],
+            "inputs": [
+              "production",
+              "^production"
+            ],
+            "outputs": [
+              "{options.outputPath}"
+            ],
+            "options": {
+              "outputPath": "dist/apps/frontend",
+              "index": "apps/frontend/src/index.html",
+              "browser": "apps/frontend/src/main.ts",
+              "polyfills": [
+                "zone.js"
+              ],
+              "tsConfig": "apps/frontend/tsconfig.app.json",
+              "inlineStyleLanguage": "scss",
+              "assets": [
+                {
+                  "glob": "**/*",
+                  "input": "apps/frontend/public",
+                  "output": "/"
+                }
+              ],
+              "styles": [
+                "@angular/material/prebuilt-themes/azure-blue.css"
+              ]
+            },
+            "configurations": {}
+          },
+          "test": {
+            "executor": "@nx/jest:jest",
+            "cache": true,
+            "inputs": [
+              "default",
+              "^production",
+              "{workspaceRoot}/jest.preset.js"
+            ],
+            "outputs": [
+              "{workspaceRoot}/coverage/{projectRoot}"
+            ],
+            "options": {
+              "passWithNoTests": true,
+              "jestConfig": "apps/frontend/jest.config.ts"
+            },
+            "configurations": {
+              "ci": {
+                "ci": true,
+                "codeCoverage": true
+              }
+            }
+          },
+          "serve": {
+            "executor": "@angular-devkit/build-angular:dev-server",
+            "configurations": {
+              "production": {
+                "buildTarget": "frontend:build:production"
+              },
+              "development": {
+                "buildTarget": "frontend:build:development"
+              }
+            },
+            "defaultConfiguration": "development",
+            "options": {
+              "proxyConfig": "apps/frontend/proxy.conf.json"
+            }
+          },
+          "extract-i18n": {
+            "executor": "@angular-devkit/build-angular:extract-i18n",
+            "options": {
+              "buildTarget": "frontend:build"
+            },
+            "configurations": {}
+          },
+          "lint": {
+            "executor": "@nrwl/linter:eslint",
+            "options": {
+              "lintFilePatterns": [
+                "apps/frontend-e2e/**/*.ts",
+                "apps/frontend-e2e/**/*.js"
+              ]
+            },
+            "configurations": {}
+          },
+          "e2e": {
+            "executor": "@nrwl/cypress:cypress",
+            "options": {
+              "cypressConfig": "apps/frontend-e2e/cypress.json",
+              "devServerTarget": "frontend:serve"
+            },
+            "configurations": {
+              "production": {
+                "devServerTarget": "frontend:serve:production"
+              }
+            }
+          }
+        },
+        "name": "frontend",
+        "$schema": "../../node_modules/nx/schemas/project-schema.json",
+        "projectType": "application",
+        "prefix": "app",
+        "sourceRoot": "apps/frontend/src",
+        "schematics": {
+          "@nrwl/angular:application": {
+            "standalone": false
+          },
+          "@nrwl/angular:component": {
+            "standalone": false
+          }
+        },
+        "configurations": {
+          "production": {
+            "budgets": [
+              {
+                "type": "initial",
+                "maximumWarning": "500kb",
+                "maximumError": "1mb"
+              },
+              {
+                "type": "anyComponentStyle",
+                "maximumWarning": "2kb",
+                "maximumError": "4kb"
+              }
+            ],
+            "outputHashing": "all"
+          },
+          "development": {
+            "optimization": false
+          }
+        },
+        "tags": [],
+        "generators": {
+          "@nrwl/angular:application": {
+            "standalone": false
+          },
+          "@nrwl/angular:component": {
+            "standalone": false
+          }
+        },
+        "implicitDependencies": []
+      }
+    },
+    "backend": {
+      "name": "backend",
+      "type": "app",
+      "data": {
+        "root": "apps/backend",
+        "projectType": "application",
+        "metadata": {},
+        "targets": {
+          "build": {
+            "options": {
+              "cwd": "apps/backend",
+              "args": [
+                "--node-env=production"
+              ],
+              "command": "webpack-cli build"
+            },
+            "cache": true,
+            "dependsOn": [
+              "^build"
+            ],
+            "inputs": [
+              "production",
+              "^production",
+              {
+                "externalDependencies": [
+                  "webpack-cli"
+                ]
+              }
+            ],
+            "outputs": [
+              "{workspaceRoot}/dist\\apps\\backend"
+            ],
+            "metadata": {
+              "technologies": [
+                "webpack"
+              ],
+              "description": "Runs Webpack build",
+              "help": {
+                "command": "npx webpack-cli build --help",
+                "example": {
+                  "options": {
+                    "json": "stats.json"
+                  },
+                  "args": [
+                    "--profile"
+                  ]
+                }
+              }
+            },
+            "executor": "nx:run-commands",
+            "configurations": {}
+          },
+          "serve": {
+            "executor": "@nx/js:node",
+            "defaultConfiguration": "development",
+            "options": {
+              "buildTarget": "backend:build"
+            },
+            "configurations": {
+              "development": {
+                "buildTarget": "backend:build:development"
+              },
+              "production": {
+                "buildTarget": "backend:build:production"
+              }
+            }
+          },
+          "preview": {
+            "options": {
+              "cwd": "apps/backend",
+              "args": [
+                "--node-env=production"
+              ],
+              "command": "webpack-cli serve"
+            },
+            "metadata": {
+              "technologies": [
+                "webpack"
+              ],
+              "description": "Starts Webpack dev server in production mode",
+              "help": {
+                "command": "npx webpack-cli serve --help",
+                "example": {
+                  "options": {
+                    "args": [
+                      "--client-progress",
+                      "--history-api-fallback "
+                    ]
+                  }
+                }
+              }
+            },
+            "executor": "nx:run-commands",
+            "configurations": {}
+          },
+          "serve-static": {
+            "executor": "@nx/web:file-server",
+            "options": {
+              "buildTarget": "build",
+              "spa": true
+            },
+            "configurations": {}
+          },
+          "test": {
+            "executor": "@nx/jest:jest",
+            "cache": true,
+            "inputs": [
+              "default",
+              "^production",
+              "{workspaceRoot}/jest.preset.js"
+            ],
+            "outputs": [
+              "{workspaceRoot}/coverage/{projectRoot}"
+            ],
+            "options": {
+              "passWithNoTests": true,
+              "jestConfig": "apps/backend/jest.config.ts"
+            },
+            "configurations": {
+              "ci": {
+                "ci": true,
+                "codeCoverage": true
+              }
+            }
+          }
+        },
+        "name": "backend",
+        "$schema": "../../node_modules/nx/schemas/project-schema.json",
+        "sourceRoot": "apps/backend/src",
+        "tags": [
+          "api",
+          "nestjs"
+        ],
+        "implicitDependencies": []
+      }
+    }
+  },
+  "externalNodes": {},
+  "dependencies": {
+    "solution-finance-e2e": [
+      {
+        "source": "solution-finance-e2e",
+        "target": "solution-finance",
+        "type": "implicit"
+      }
+    ],
+    "solution-finance": [],
+    "frontend-e2e": [
+      {
+        "source": "frontend-e2e",
+        "target": "frontend",
+        "type": "implicit"
+      }
+    ],
+    "backend-e2e": [
+      {
+        "source": "backend-e2e",
+        "target": "backend",
+        "type": "implicit"
+      }
+    ],
+    "frontend": [],
+    "backend": []
+  },
+  "version": "6.0"
+}
