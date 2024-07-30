@@ -1,4 +1,4 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Put } from '@nestjs/common';
 import { Observable } from 'rxjs';
 import { StockService } from './stock.service';
 import { StockModel } from './interfaces/stock.interface';
@@ -12,8 +12,11 @@ export class StockController {
     return this.stockService.findAll();
   }
 
-  @Get('movers')
-  findMovers(): Observable<StockModel[]> {
-    return this.stockService.findMovers();
+  @Put()
+  createStocks(stocks:string[]): Observable<StockModel[]> {
+    return this.stockService.createStocks(stocks);
   }
+  
 }
+
+

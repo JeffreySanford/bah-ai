@@ -49,12 +49,5 @@ describe('StockService', () => {
         }
       }
     ];
-
-    jest.spyOn(service, 'findMovers').mockReturnValue(of(mockStocks));
-
-    service.findMovers().subscribe((data) => {
-      expect(data).toEqual(mockStocks);
-      done();
-    });
   });
 });

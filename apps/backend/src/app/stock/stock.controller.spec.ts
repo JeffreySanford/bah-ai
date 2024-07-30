@@ -78,15 +78,15 @@ describe('StockController', () => {
     });
   });
 
-  // it('should create stocks', (done) => {
-  //   controller.createStocks().subscribe(result => {
-  //     expect(result).toEqual({
-  //       mockStocks: [
-  //         { symbol: 'AAPL', price: 150, volume: 10000 },
-  //         { symbol: 'GOOGL', price: 2800, volume: 5000 },
-  //       ],
-  //     });
-  //     done();
-  //   });
-  // });
+  it('should create stocks', (done) => {
+    controller.createStocks().subscribe(result => {
+      expect(result).toEqual({
+        mockStocks: [
+          { symbol: 'AAPL', price: 150, volume: 10000 },
+          { symbol: 'GOOGL', price: 2800, volume: 5000 },
+        ],
+      });
+      done();
+    });
+  });
 });
