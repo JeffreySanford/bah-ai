@@ -18,7 +18,7 @@ const logger = winston.createLogger({
   ]
 });
 
-const mongoURI = 'mongodb://localhost:27017/finances'; // MongoDB URI
+const mongoURI = 'mongodb://localhost:27017/finance'; // MongoDB URI
 // Add logger running message
 logger.info('Running script to check MongoDB connection...');
 
