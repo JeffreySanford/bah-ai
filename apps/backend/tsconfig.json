@@ -1,18 +1,10 @@
 {
   "extends": "../../tsconfig.base.json",
-  "files": [],
-  "include": [],
-  "references": [
-    {
-      "path": "./tsconfig.app.json"
-    },
-    {
-      "path": "./tsconfig.spec.json"
-    }
-  ],
   "compilerOptions": {
-    "module": "es2022",
-    "target": "es6",
+    "outDir": "../../dist/apps/backend",
+    "module": "CommonJS",
+    "types": ["node", "jest"],
+    "target": "ES6",
     "esModuleInterop": true,
     "skipLibCheck": true,
     "strict": true,
@@ -21,8 +13,11 @@
       "*": ["node_modules/*"]
     },
     "experimentalDecorators": true,
-    "emitDecoratorMetadata": true
-  }
+    "emitDecoratorMetadata": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules"]
 }
     
   

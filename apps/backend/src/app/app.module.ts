@@ -6,6 +6,7 @@ import { StockService } from './stock/stock.service';
 import { StockSchema } from './stock/stock.schema';
 import { FinnhubService } from './stock/finnhub/finnhub.service';
 import { StockController } from './stock/stock.controller';
+import { FinnhubController } from './stock/finnhub/finnhub.controller';
 
 @Module({
   imports: [
@@ -14,7 +15,7 @@ import { StockController } from './stock/stock.controller';
     ScheduleModule.forRoot(),
     HttpModule
   ],
-  controllers: [StockController],
+  controllers: [StockController, FinnhubController],
   providers: [StockService, FinnhubService],
 })
 export class AppModule {}

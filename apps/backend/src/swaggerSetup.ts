@@ -10,4 +10,5 @@ export function setupSwagger(app: INestApplication): void {
 
   const document = SwaggerModule.createDocument(app, options);
   SwaggerModule.setup('api', app, document);
+  console.log('Swagger is running on http://localhost:3000/api');
 }

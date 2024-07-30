@@ -13,7 +13,7 @@ export class StockService implements OnModuleInit {
   ) { }
 
   onModuleInit() {
-    this.initializeMockData();
+    this.stockModel = this.initializeMockData();
   }
 
   findOne(symbol: string): StockModel | undefined {
@@ -41,9 +41,9 @@ export class StockService implements OnModuleInit {
       ]
     };
 
-    mockData.mockStocks.forEach((stock) => {
-      this.stockModel.push(stock);
-    });
+    // mockData.mockStocks.forEach((stock) => {
+    //   this.stockModel.push(stock);
+    // });
 
     return this.stockModel;
   }
