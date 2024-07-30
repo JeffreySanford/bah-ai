@@ -1,6 +1,6 @@
+import { HttpService } from '@nestjs/axios';
 import { Injectable } from '@nestjs/common';
 import { Observable } from 'rxjs';
-import { HttpService } from '@nestjs/axios';
 import { map } from 'rxjs/operators';
 
 @Injectable()
@@ -10,10 +10,8 @@ export class FinnhubService {
 
   constructor(private readonly httpService: HttpService) {}
 
-  getStockData(): Observable<any> {
-    
-    const url = `${this.baseUrl}/stock/symbol?exchange=US&token=${this.apiKey}`;
-    
+  getStockData(stock: string): Observable<any> {
+    const url = `${this.baseUrl}/quote?symbol=${stock}&token=${this.apiKey}`;
     console.log(url);
     return this.httpService.get(url).pipe(map(response => response.data));
   }

@@ -1,16 +1,15 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { FinnhubController } from './finnhub.controller';
-import { HttpModule } from '@nestjs/axios'; // Import HttpModule
-import { FinnhubService } from './finnhub.service'; // Import FinnhubService if used in the controller
-
+import { HttpModule } from '@nestjs/axios';
+import { FinnhubService } from './finnhub.service';
 describe('FinnhubController', () => {
   let controller: FinnhubController;
 
   beforeEach(async () => {
     const module: TestingModule = await Test.createTestingModule({
-      imports: [HttpModule], // Add HttpModule to imports
+      imports: [HttpModule],
       controllers: [FinnhubController],
-      providers: [FinnhubService], // Add FinnhubService to providers if used in the controller
+      providers: [FinnhubService]
     }).compile();
 
     controller = module.get<FinnhubController>(FinnhubController);

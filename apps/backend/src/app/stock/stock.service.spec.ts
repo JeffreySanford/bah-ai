@@ -1,6 +1,4 @@
-import { Observable, of } from 'rxjs';
 import { StockService } from './stock.service';
-import { StockModel } from './interfaces/stock.interface';
 import { Test } from '@nestjs/testing';
 import { getModelToken } from '@nestjs/mongoose';
 import { FinnhubService } from './finnhub/finnhub.service';
