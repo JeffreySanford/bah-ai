@@ -10,7 +10,8 @@ export class FinnhubService {
 
   constructor(private readonly httpService: HttpService) {}
 
-  getStockData(symbol: string): Observable<any> {
+  getStockData(): Observable<any> {
+    
     const url = `${this.baseUrl}/stock/symbol?exchange=US&token=${this.apiKey}`;
     
     console.log(url);

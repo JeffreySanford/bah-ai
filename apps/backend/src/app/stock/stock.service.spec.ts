@@ -11,7 +11,7 @@ describe('StockService', () => {
 
   beforeEach(async () => {
     const module = await Test.createTestingModule({
-      imports: [HttpModule], // Add the HttpModule to the imports
+      imports: [HttpModule],
       providers: [
         StockService,
         {
@@ -20,34 +20,14 @@ describe('StockService', () => {
             create: jest.fn(),
           },
         },
-        // Add the FinnhubService provider here
-        FinnhubService,
+        FinnhubService
       ],
     }).compile();
 
     service = module.get<StockService>(StockService);
   });
 
-  it('should get stock movers', (done) => {
-    const mockStocks: StockModel[] = [
-      {
-        id: 1, name: 'Apple Inc.', price: 150, symbol: 'AAPL', volume: 10000,
-        create: function (stock: { id: string; name: string; symbol: string; price: number; volume: number; }): Observable<{ symbol: string; price: number; volume: number; }> {
-          throw new Error('Function not implemented.');
-        }
-      },
-      {
-        id: 2, name: 'Alphabet Inc.', price: 2800, symbol: 'GOOGL', volume: 5000,
-        create: function (stock: { id: string; name: string; symbol: string; price: number; volume: number; }): Observable<{ symbol: string; price: number; volume: number; }> {
-          throw new Error('Function not implemented.');
-        }
-      },
-      {
-        id: 3, name: 'Amazon.com Inc.', price: 3400, symbol: 'AMZN', volume: 3000,
-        create: function (stock: { id: string; name: string; symbol: string; price: number; volume: number; }): Observable<{ symbol: string; price: number; volume: number; }> {
-          throw new Error('Function not implemented.');
-        }
-      }
-    ];
+  it('should be defined', () => {
+    expect(service).toBeDefined();
   });
 });

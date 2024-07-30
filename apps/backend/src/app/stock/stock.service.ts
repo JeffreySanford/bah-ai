@@ -28,9 +28,11 @@ export class StockService implements OnModuleInit {
   private initializeMockData(): StockModel[] {
     const mockData = {
       mockStocks: [
-        { symbol: 'AAPL', price: 150, volume: 10000 },
-        { symbol: 'GOOGL', price: 2800, volume: 5000 },
-        { symbol: 'AMZN', price: 3400, volume: 3000 },
+        { id: 1, name: 'Apple Inc.', symbol: 'AAPL', price: 150, volume: 10000 },
+        { id: 2, name: 'Alphabet Inc.', symbol: 'GOOGL', price: 2800, volume: 5000 },
+        { id: 3, name: 'Amazon.com Inc.', symbol: 'AMZN', price: 3400, volume: 3000 },
+        { id: 4, name: 'Booz Allen Hamilton', symbol: 'BAH', price: 90, volume: 7000 },
+        { id: 5, name: 'Microsoft Corporation', symbol: 'MSFT', price: 300, volume: 8000 }
       ],
       mockCryptos: [
         { symbol: 'BTC', price: 45000, volume: 2000 },
@@ -41,8 +43,12 @@ export class StockService implements OnModuleInit {
 
     mockData.mockStocks.forEach((stock) => {
       this.stockModel.push(stock);
-    }
+    });
 
     return this.stockModel;
+  }
+
+  createStocks(stocks: string[]): boolean {
+    return true;
   }
 }

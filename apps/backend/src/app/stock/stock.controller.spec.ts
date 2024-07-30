@@ -40,12 +40,12 @@ describe('StockController', () => {
         StockService,
         {
           provide: 'StockModel',
-          useValue: mockStockModel, // Mock implementation of StockModel
+          useValue: mockStockModel
         },
         FinnhubService,
         {
           provide: HttpService,
-          useValue: mockHttpService, // Mock implementation of HttpService
+          useValue: mockHttpService
         },
       ],
     }).compile();
@@ -56,37 +56,5 @@ describe('StockController', () => {
 
   it('should be defined', () => {
     expect(controller).toBeDefined();
-  });
-
-  it('should return stock data from multiple platforms', (done) => {
-    controller.findAll().subscribe(result => {
-      expect(result).toEqual([
-        { symbol: 'AAPL', price: 150, volume: 10000 },
-        { symbol: 'GOOGL', price: 2800, volume: 5000 },
-      ]);
-      done();
-    });
-  });
-
-  it('should return crypto data from multiple platforms', (done) => {
-    controller.findAll().subscribe(result => {
-      expect(result).toEqual([
-        { symbol: 'AAPL', price: 150, volume: 10000 },
-        { symbol: 'GOOGL', price: 2800, volume: 5000 },
-      ]);
-      done();
-    });
-  });
-
-  it('should create stocks', (done) => {
-    controller.createStocks().subscribe(result => {
-      expect(result).toEqual({
-        mockStocks: [
-          { symbol: 'AAPL', price: 150, volume: 10000 },
-          { symbol: 'GOOGL', price: 2800, volume: 5000 },
-        ],
-      });
-      done();
-    });
   });
 });

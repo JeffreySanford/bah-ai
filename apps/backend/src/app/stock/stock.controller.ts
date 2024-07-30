@@ -8,15 +8,12 @@ export class StockController {
   constructor(private readonly stockService: StockService) {}
 
   @Get()
-  findAll(): Observable<StockModel[]> {
+  findAll(): StockModel[] {
     return this.stockService.findAll();
   }
 
   @Put()
-  createStocks(stocks:string[]): Observable<StockModel[]> {
+  createStocks(stocks:string[]): boolean {
     return this.stockService.createStocks(stocks);
   }
-  
 }
-
-
