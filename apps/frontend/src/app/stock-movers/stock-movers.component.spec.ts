@@ -9,21 +9,24 @@ describe('StockMoversComponent', () => {
   let component: StockMoversComponent;
   let fixture: ComponentFixture<StockMoversComponent>;
 
-  beforeAll(() => {
-    // Mock the animate function
-    if (!Element.prototype.animate) {
-      Element.prototype.animate = () => ({
-        currentTime: 0,
-        effect: null,
-        finished: Promise.resolve({} as Animation),
-        id: '',
-        oncancel: null,
-        onfinish: null,
-        onremove: null,
-        pause: () => {},
-        play: () => {},
-        reverse: () => {},
-        updatePlaybackRate: () => {},
+  beforeEach(async () => {
+    await TestBed.configureTestingModule({
+      declarations: [StockMoversComponent],
+      imports: [
+        HttpClientTestingModule,
+        NoopAnimationsModule,
+        MaterialModule
+      ],
+    }).compileComponents();
+
+    fixture = TestBed.createComponent(StockMoversComponent);
+    component = fixture.componentInstance;
+    fixture.detectChanges();
+  });
+
+  beforeEach(async () => {
+    Object.defineProperty(window, 'Animation', {
+      value: {
         addEventListener: () => {},
         removeEventListener: () => {},
         pending: false,
@@ -39,28 +42,13 @@ describe('StockMoversComponent', () => {
         playAnimations: () => {},
         reverseAnimations: () => {},
         updateAnimations: () => {},
-        replaceState: () => {},
         timeline: null,
         commitStyles: () => {},
         persist: () => {},
         dispatchEvent: () => true,
-      });
-    }
-  });
-
-  beforeEach(async () => {
-    await TestBed.configureTestingModule({
-      declarations: [StockMoversComponent],
-      imports: [
-        HttpClientTestingModule,
-        NoopAnimationsModule,
-        MaterialModule
-      ],
-    }).compileComponents();
-
-    fixture = TestBed.createComponent(StockMoversComponent);
-    component = fixture.componentInstance;
-    fixture.detectChanges();
+        replaceState: () => {}
+      }
+    });
   });
 
   it('should create', () => {
