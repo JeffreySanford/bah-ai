@@ -28,48 +28,48 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": ".nx/workspace-data/eslint-4393011795395336301.hash",
-        "hash": "530925832534241400"
+        "file": "jest.preset.js",
+        "hash": "7473220183190921152"
       },
       {
         "file": ".nx/workspace-data/file-map.json",
-        "hash": "7604460569997179978"
+        "hash": "9673442451091763860"
       },
       {
-        "file": ".nx/workspace-data/playwright-5186013267177752385.hash",
-        "hash": "3637866554138839170"
-      },
-      {
-        "file": ".nx/workspace-data/d/daemon.log",
-        "hash": "1791980203528734707"
-      },
-      {
-        "file": "babel.config.js",
-        "hash": "10578201683804947697"
-      },
-      {
-        "file": ".nx/workspace-data/project-graph.json",
-        "hash": "3481293153969330194"
-      },
-      {
-        "file": "jest.preset.js",
-        "hash": "7473220183190921152"
+        "file": ".nx/workspace-data/webpack-17957109288680152952.hash",
+        "hash": "6473954240544828739"
       },
       {
         "file": ".babelrc",
         "hash": "1440641748149342853"
       },
       {
-        "file": "package-lock.json",
-        "hash": "3373293211222682365"
+        "file": ".nx/workspace-data/playwright-5186013267177752385.hash",
+        "hash": "3637866554138839170"
       },
       {
         "file": "nx.json",
         "hash": "1478912702128799848"
       },
       {
-        "file": ".nx/workspace-data/webpack-17957109288680152952.hash",
-        "hash": "6473954240544828739"
+        "file": ".nx/workspace-data/project-graph.json",
+        "hash": "3481293153969330194"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "3373293211222682365"
+      },
+      {
+        "file": ".nx/workspace-data/eslint-4393011795395336301.hash",
+        "hash": "530925832534241400"
+      },
+      {
+        "file": "babel.config.js",
+        "hash": "10578201683804947697"
+      },
+      {
+        "file": ".nx/workspace-data/d/daemon.log",
+        "hash": "5210700415478546938"
       }
     ],
     "projectFileMap": {
