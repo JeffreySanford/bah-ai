@@ -1,13 +1,14 @@
 import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
-import { AppComponent } from './app.component';
 import { appRoutes } from './app.routes';
-import { StockMoversComponent } from './stock-movers/stock-movers.component';
-import { MaterialModule } from './material.module';
-import { HttpClientModule } from '@angular/common/http';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { provideHttpClient } from '@angular/common/http';
+import { MaterialModule } from './material.module';
+
+import { AppComponent } from './app.component';
 import { StocksModule } from './stocks/stocks.module';
+import { StockMoversComponent } from './stock-movers/stock-movers.component';
 
 @NgModule({
   declarations: [AppComponent, StockMoversComponent],
@@ -15,11 +16,11 @@ import { StocksModule } from './stocks/stocks.module';
     BrowserModule,
     BrowserAnimationsModule,
     RouterModule.forRoot(appRoutes),
-    HttpClientModule,
     MaterialModule,
     StocksModule
   ],
   schemas: [CUSTOM_ELEMENTS_SCHEMA],
+  providers: [provideHttpClient()],
   bootstrap: [AppComponent],
 })
 export class AppModule {}
