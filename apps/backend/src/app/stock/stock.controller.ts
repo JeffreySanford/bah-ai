@@ -1,5 +1,4 @@
 import { Controller, Get, Put } from '@nestjs/common';
-import { Observable } from 'rxjs';
 import { StockService } from './stock.service';
 import { StockModel } from './interfaces/stock.interface';
 

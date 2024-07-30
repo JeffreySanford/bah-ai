@@ -1,13 +1,13 @@
 import { Test, TestingModule } from '@nestjs/testing';
 import { StockController } from './stock.controller';
-import { StockService } from './stock.service';
 import { FinnhubService } from './finnhub/finnhub.service';
 import { HttpService } from '@nestjs/axios';
 import { of } from 'rxjs';
 
 describe('StockController', () => {
   let controller: StockController;
-  let stockService: StockService;
+  let finnhubService: FinnhubService;
+  let httpService: HttpService;
 
   beforeEach(async () => {
     const mockStockModel = {
@@ -28,8 +28,8 @@ describe('StockController', () => {
     const mockHttpService = {
       get: jest.fn().mockImplementation(() => of({
         data: [
-          { id: 1, name: 'FinnHub Stock A', price: 100 },
-          { id: 2, name: 'FinnHub Stock B', price: 200 },
+          { symbol: 'AAPL', price: 150, volume: 10000 },
+          { symbol: 'GOOGL', price: 2800, volume: 5000 },
         ],
       })),
     };
@@ -37,24 +37,31 @@ describe('StockController', () => {
     const module: TestingModule = await Test.createTestingModule({
       controllers: [StockController],
       providers: [
-        StockService,
         {
-          provide: 'StockModel',
-          useValue: mockStockModel
+          provide: FinnhubService,
+          useValue: mockStockModel,
         },
-        FinnhubService,
         {
           provide: HttpService,
-          useValue: mockHttpService
+          useValue: mockHttpService,
         },
       ],
     }).compile();
 
     controller = module.get<StockController>(StockController);
-    stockService = module.get<StockService>(StockService);
+    finnhubService = module.get<FinnhubService>(FinnhubService);
+    httpService = module.get<HttpService>(HttpService);
   });
 
   it('should be defined', () => {
     expect(controller).toBeDefined();
+  });
+
+  it('finnhubService should be defined', () => {
+    expect(finnhubService).toBeDefined();
+  });
+
+  it('httpService should be defined', () => {
+    expect(httpService).toBeDefined();
   });
 });

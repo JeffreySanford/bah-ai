@@ -1,24 +1,13 @@
-/* eslint-disable */
-export default {
-  displayName: 'frontend',
-  preset: '../../jest.preset.js',
-  setupFilesAfterEnv: ['<rootDir>/src/test-setup.ts'],
-  coverageDirectory: '../../coverage/apps/frontend',
+module.exports = {
+  preset: 'ts-jest',
+  testEnvironment: 'node',
   transform: {
-    '^.+\\.(ts|mjs|js|html)$': [
-      'jest-preset-angular',
-      {
-        tsconfig: '<rootDir>/tsconfig.spec.json',
-        stringifyContentPathRegex: '\\.(html|svg)$',
-      },
-    ],
+    '^.+\\.tsx?$': 'ts-jest',
+  },
+  moduleNameMapper: {
+    '\\.(css|less|scss|sass)$': 'identity-obj-proxy',
   },
   transformIgnorePatterns: [
-    '/node_modules/(?!d3)/'
-  ],
-  snapshotSerializers: [
-    'jest-preset-angular/build/serializers/no-ng-attributes',
-    'jest-preset-angular/build/serializers/ng-snapshot',
-    'jest-preset-angular/build/serializers/html-comment',
+    'node_modules/(?!@angular/core|@angular/common|@angular/platform-browser|@angular/platform-browser-dynamic|@angular/router|@angular/forms|@angular/animations|@angular/compiler|@angular/compiler-cli|rxjs)',
   ],
 };
