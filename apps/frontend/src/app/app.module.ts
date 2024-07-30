@@ -1,4 +1,4 @@
-import { NgModule, CUSTOM_ELEMENTS_SCHEMA } from '@angular/core';
+import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule } from '@angular/router';
 import { appRoutes } from './app.routes';
@@ -19,7 +19,6 @@ import { StockMoversComponent } from './stock-movers/stock-movers.component';
     MaterialModule,
     StocksModule
   ],
-  schemas: [CUSTOM_ELEMENTS_SCHEMA],
   providers: [provideHttpClient()],
   bootstrap: [AppComponent],
 })
