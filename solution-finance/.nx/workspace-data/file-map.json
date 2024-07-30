@@ -28,28 +28,12 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "babel.config.js",
-        "hash": "10578201683804947697"
-      },
-      {
-        "file": ".nx/workspace-data/d/daemon.log",
-        "hash": "9777697315838822139"
-      },
-      {
-        "file": ".babelrc",
-        "hash": "1440641748149342853"
-      },
-      {
         "file": ".nx/workspace-data/project-graph.json",
         "hash": "3481293153969330194"
       },
       {
-        "file": ".nx/workspace-data/webpack-17957109288680152952.hash",
-        "hash": "6473954240544828739"
-      },
-      {
-        "file": ".nx/workspace-data/file-map.json",
-        "hash": "16786145247105111766"
+        "file": ".nx/workspace-data/eslint-4393011795395336301.hash",
+        "hash": "530925832534241400"
       },
       {
         "file": ".nx/workspace-data/playwright-5186013267177752385.hash",
@@ -60,16 +44,32 @@
         "hash": "7473220183190921152"
       },
       {
-        "file": "nx.json",
-        "hash": "1478912702128799848"
-      },
-      {
         "file": "package-lock.json",
         "hash": "3373293211222682365"
       },
       {
-        "file": ".nx/workspace-data/eslint-4393011795395336301.hash",
-        "hash": "530925832534241400"
+        "file": "nx.json",
+        "hash": "1478912702128799848"
+      },
+      {
+        "file": ".nx/workspace-data/d/daemon.log",
+        "hash": "9305164446435261191"
+      },
+      {
+        "file": ".babelrc",
+        "hash": "1440641748149342853"
+      },
+      {
+        "file": ".nx/workspace-data/file-map.json",
+        "hash": "9355122373248925991"
+      },
+      {
+        "file": "babel.config.js",
+        "hash": "10578201683804947697"
+      },
+      {
+        "file": ".nx/workspace-data/webpack-17957109288680152952.hash",
+        "hash": "6473954240544828739"
       }
     ],
     "projectFileMap": {

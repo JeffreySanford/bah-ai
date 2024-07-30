@@ -11169,3 +11169,1006 @@ Failed to process project graph. Run "nx reset" to fix this. Please report the i
 [NX Daemon Server] - 2024-07-30T19:09:00.611Z - Time taken for 'hash changed files from watcher' 2.361399993300438ms
 [NX Daemon Server] - 2024-07-30T19:09:00.675Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
 [NX Daemon Server] - 2024-07-30T19:09:00.738Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:00.798Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:00.814Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:00.814Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:00.814Z - [REQUEST]: .nx/workspace-data/file-map.json~ab0efec7,.nx/workspace-data/project-graph.json~ab0efec7
+[NX Daemon Server] - 2024-07-30T19:09:00.826Z - Time taken for 'hash changed files from watcher' 0.8689000010490417ms
+[NX Daemon Server] - 2024-07-30T19:09:00.860Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:00.923Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:00.974Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:00.974Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:00.974Z - [REQUEST]: .nx/workspace-data/project-graph.json~f1c1086f,.nx/workspace-data/file-map.json~f1c1086f
+[NX Daemon Server] - 2024-07-30T19:09:00.986Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:00.986Z - Time taken for 'hash changed files from watcher' 2.8193999975919724ms
+[NX Daemon Server] - 2024-07-30T19:09:01.034Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:01.097Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:01.158Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:01.192Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:01.192Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:01.192Z - [REQUEST]: .nx/workspace-data/project-graph.json~5f25780b,.nx/workspace-data/file-map.json~5f25780b
+[NX Daemon Server] - 2024-07-30T19:09:01.204Z - Time taken for 'hash changed files from watcher' 2.535300001502037ms
+[NX Daemon Server] - 2024-07-30T19:09:01.221Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:01.281Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:01.329Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:01.329Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:01.329Z - [REQUEST]: .nx/workspace-data/file-map.json~15e67b8b,.nx/workspace-data/project-graph.json~15e67b8b
+[NX Daemon Server] - 2024-07-30T19:09:01.341Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:01.342Z - Time taken for 'hash changed files from watcher' 2.586999997496605ms
+[NX Daemon Server] - 2024-07-30T19:09:01.389Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:01.450Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:01.511Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:01.558Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:01.558Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:01.558Z - [REQUEST]: .nx/workspace-data/project-graph.json~a5e3a07a,.nx/workspace-data/file-map.json~a5e3a07a
+[NX Daemon Server] - 2024-07-30T19:09:01.570Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:01.570Z - Time taken for 'hash changed files from watcher' 2.3083999902009964ms
+[NX Daemon Server] - 2024-07-30T19:09:01.618Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:01.679Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:01.741Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:01.775Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:01.775Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:01.775Z - [REQUEST]: .nx/workspace-data/project-graph.json~e5bf0eab,.nx/workspace-data/file-map.json~e5bf0eab
+[NX Daemon Server] - 2024-07-30T19:09:01.785Z - Time taken for 'hash changed files from watcher' 2.4490000009536743ms
+[NX Daemon Server] - 2024-07-30T19:09:01.805Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:01.866Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:01.917Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:01.917Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:01.917Z - [REQUEST]: .nx/workspace-data/project-graph.json~98fa31b1,.nx/workspace-data/file-map.json~98fa31b1
+[NX Daemon Server] - 2024-07-30T19:09:01.928Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:01.928Z - Time taken for 'hash changed files from watcher' 4.212799996137619ms
+[NX Daemon Server] - 2024-07-30T19:09:01.990Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:02.052Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:02.116Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:02.135Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:02.135Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:02.135Z - [REQUEST]: .nx/workspace-data/file-map.json~7ac1d20f,.nx/workspace-data/project-graph.json~7ac1d20f
+[NX Daemon Server] - 2024-07-30T19:09:02.147Z - Time taken for 'hash changed files from watcher' 4.259100005030632ms
+[NX Daemon Server] - 2024-07-30T19:09:02.178Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:02.239Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:02.287Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:02.287Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:02.287Z - [REQUEST]: .nx/workspace-data/file-map.json~48d7eb55,.nx/workspace-data/project-graph.json~48d7eb55
+[NX Daemon Server] - 2024-07-30T19:09:02.299Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:02.300Z - Time taken for 'hash changed files from watcher' 2.3023000061511993ms
+[NX Daemon Server] - 2024-07-30T19:09:02.348Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:02.409Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:02.470Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:02.503Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:02.503Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:02.503Z - [REQUEST]: .nx/workspace-data/project-graph.json~e49567ad,.nx/workspace-data/file-map.json~e49567ad
+[NX Daemon Server] - 2024-07-30T19:09:02.514Z - Time taken for 'hash changed files from watcher' 2.6908999979496ms
+[NX Daemon Server] - 2024-07-30T19:09:02.532Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:02.594Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:02.641Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:02.641Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:02.641Z - [REQUEST]: .nx/workspace-data/file-map.json~b718b036,.nx/workspace-data/project-graph.json~b718b036
+[NX Daemon Server] - 2024-07-30T19:09:02.652Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:02.652Z - Time taken for 'hash changed files from watcher' 2.290000006556511ms
+[NX Daemon Server] - 2024-07-30T19:09:02.701Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:02.763Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:02.825Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:02.857Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:02.857Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:02.857Z - [REQUEST]: .nx/workspace-data/file-map.json~e5a2996c,.nx/workspace-data/project-graph.json~e5a2996c
+[NX Daemon Server] - 2024-07-30T19:09:02.868Z - Time taken for 'hash changed files from watcher' 2.467600002884865ms
+[NX Daemon Server] - 2024-07-30T19:09:02.886Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:02.949Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:02.998Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:02.998Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:02.998Z - [REQUEST]: .nx/workspace-data/project-graph.json~ee115179,.nx/workspace-data/file-map.json~ee115179
+[NX Daemon Server] - 2024-07-30T19:09:03.010Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:03.010Z - Time taken for 'hash changed files from watcher' 2.530799999833107ms
+[NX Daemon Server] - 2024-07-30T19:09:03.058Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:03.120Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:03.180Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:03.214Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:03.214Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:03.214Z - [REQUEST]: .nx/workspace-data/file-map.json~274b6c59,.nx/workspace-data/project-graph.json~274b6c59
+[NX Daemon Server] - 2024-07-30T19:09:03.224Z - Time taken for 'hash changed files from watcher' 2.3390000015497208ms
+[NX Daemon Server] - 2024-07-30T19:09:03.243Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:03.304Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:03.354Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:03.354Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:03.354Z - [REQUEST]: .nx/workspace-data/project-graph.json~317165f0,.nx/workspace-data/file-map.json~317165f0
+[NX Daemon Server] - 2024-07-30T19:09:03.366Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:03.366Z - Time taken for 'hash changed files from watcher' 2.562600001692772ms
+[NX Daemon Server] - 2024-07-30T19:09:03.429Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:03.490Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:03.552Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:03.572Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:03.572Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:03.572Z - [REQUEST]: .nx/workspace-data/file-map.json~e74f9de2,.nx/workspace-data/project-graph.json~e74f9de2
+[NX Daemon Server] - 2024-07-30T19:09:03.581Z - Time taken for 'hash changed files from watcher' 4.844200000166893ms
+[NX Daemon Server] - 2024-07-30T19:09:03.615Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:03.678Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:03.728Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:03.728Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:03.728Z - [REQUEST]: .nx/workspace-data/file-map.json~81eb8eaf,.nx/workspace-data/project-graph.json~81eb8eaf
+[NX Daemon Server] - 2024-07-30T19:09:03.739Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:03.740Z - Time taken for 'hash changed files from watcher' 4.277999997138977ms
+[NX Daemon Server] - 2024-07-30T19:09:03.790Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:03.850Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:03.910Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:03.943Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:03.943Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:03.943Z - [REQUEST]: .nx/workspace-data/project-graph.json~167a5ce1,.nx/workspace-data/file-map.json~167a5ce1
+[NX Daemon Server] - 2024-07-30T19:09:03.954Z - Time taken for 'hash changed files from watcher' 2.5585000067949295ms
+[NX Daemon Server] - 2024-07-30T19:09:03.972Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:04.035Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:04.084Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:04.084Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:04.084Z - [REQUEST]: .nx/workspace-data/file-map.json~5237938b,.nx/workspace-data/project-graph.json~5237938b
+[NX Daemon Server] - 2024-07-30T19:09:04.095Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:04.095Z - Time taken for 'hash changed files from watcher' 2.504399999976158ms
+[NX Daemon Server] - 2024-07-30T19:09:04.144Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:04.206Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:04.266Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:04.300Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:04.300Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:04.300Z - [REQUEST]: .nx/workspace-data/project-graph.json~aa87bfdd,.nx/workspace-data/file-map.json~aa87bfdd
+[NX Daemon Server] - 2024-07-30T19:09:04.310Z - Time taken for 'hash changed files from watcher' 2.334299996495247ms
+[NX Daemon Server] - 2024-07-30T19:09:04.328Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:04.390Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:04.438Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:04.438Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:04.438Z - [REQUEST]: .nx/workspace-data/project-graph.json~dbe3f646,.nx/workspace-data/file-map.json~dbe3f646
+[NX Daemon Server] - 2024-07-30T19:09:04.451Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:04.451Z - Time taken for 'hash changed files from watcher' 2.393899992108345ms
+[NX Daemon Server] - 2024-07-30T19:09:04.513Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:04.574Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:04.635Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:04.668Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:04.668Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:04.668Z - [REQUEST]: .nx/workspace-data/project-graph.json~17703ccc,.nx/workspace-data/file-map.json~17703ccc
+[NX Daemon Server] - 2024-07-30T19:09:04.679Z - Time taken for 'hash changed files from watcher' 2.388599991798401ms
+[NX Daemon Server] - 2024-07-30T19:09:04.697Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:04.759Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:04.807Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:04.807Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:04.807Z - [REQUEST]: .nx/workspace-data/file-map.json~6b32314f,.nx/workspace-data/project-graph.json~6b32314f
+[NX Daemon Server] - 2024-07-30T19:09:04.817Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:04.817Z - Time taken for 'hash changed files from watcher' 2.3917999863624573ms
+[NX Daemon Server] - 2024-07-30T19:09:04.867Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:04.928Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:04.991Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:05.024Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:05.024Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:05.024Z - [REQUEST]: .nx/workspace-data/project-graph.json~8e398be4,.nx/workspace-data/file-map.json~8e398be4
+[NX Daemon Server] - 2024-07-30T19:09:05.034Z - Time taken for 'hash changed files from watcher' 2.6768999993801117ms
+[NX Daemon Server] - 2024-07-30T19:09:05.053Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:05.115Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:05.167Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:05.167Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:05.167Z - [REQUEST]: .nx/workspace-data/file-map.json~0ca9dfd3,.nx/workspace-data/project-graph.json~0ca9dfd3
+[NX Daemon Server] - 2024-07-30T19:09:05.177Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:05.177Z - Time taken for 'hash changed files from watcher' 3.7540999948978424ms
+[NX Daemon Server] - 2024-07-30T19:09:05.228Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:05.287Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:05.352Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:05.383Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:05.383Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:05.383Z - [REQUEST]: .nx/workspace-data/project-graph.json~92f69e20,.nx/workspace-data/file-map.json~92f69e20
+[NX Daemon Server] - 2024-07-30T19:09:05.394Z - Time taken for 'hash changed files from watcher' 3.889700010418892ms
+[NX Daemon Server] - 2024-07-30T19:09:05.414Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:05.475Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:05.523Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:05.523Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:05.523Z - [REQUEST]: .nx/workspace-data/project-graph.json~57143f92,.nx/workspace-data/file-map.json~57143f92
+[NX Daemon Server] - 2024-07-30T19:09:05.535Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:05.535Z - Time taken for 'hash changed files from watcher' 2.4224999994039536ms
+[NX Daemon Server] - 2024-07-30T19:09:05.584Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:05.646Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:05.709Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:05.742Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:05.742Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:05.742Z - [REQUEST]: .nx/workspace-data/project-graph.json~5373eb2d,.nx/workspace-data/file-map.json~5373eb2d
+[NX Daemon Server] - 2024-07-30T19:09:05.751Z - Time taken for 'hash changed files from watcher' 2.3801999986171722ms
+[NX Daemon Server] - 2024-07-30T19:09:05.770Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:05.832Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:05.881Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:05.881Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:05.881Z - [REQUEST]: .nx/workspace-data/file-map.json~627894cc,.nx/workspace-data/project-graph.json~627894cc
+[NX Daemon Server] - 2024-07-30T19:09:05.893Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:05.893Z - Time taken for 'hash changed files from watcher' 3.5825999975204468ms
+[NX Daemon Server] - 2024-07-30T19:09:05.955Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:06.016Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:06.079Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:06.096Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:06.096Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:06.096Z - [REQUEST]: .nx/workspace-data/project-graph.json~524980c6,.nx/workspace-data/file-map.json~524980c6
+[NX Daemon Server] - 2024-07-30T19:09:06.107Z - Time taken for 'hash changed files from watcher' 2.4077999889850616ms
+[NX Daemon Server] - 2024-07-30T19:09:06.140Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:06.202Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:06.250Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:06.250Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:06.250Z - [REQUEST]: .nx/workspace-data/file-map.json~1def185b,.nx/workspace-data/project-graph.json~1def185b
+[NX Daemon Server] - 2024-07-30T19:09:06.261Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:06.261Z - Time taken for 'hash changed files from watcher' 2.353400006890297ms
+[NX Daemon Server] - 2024-07-30T19:09:06.311Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:06.373Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:06.435Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:06.468Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:06.468Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:06.468Z - [REQUEST]: .nx/workspace-data/file-map.json~bef0fde2,.nx/workspace-data/project-graph.json~bef0fde2
+[NX Daemon Server] - 2024-07-30T19:09:06.480Z - Time taken for 'hash changed files from watcher' 2.4486999958753586ms
+[NX Daemon Server] - 2024-07-30T19:09:06.497Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:06.557Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:06.606Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:06.606Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:06.606Z - [REQUEST]: .nx/workspace-data/project-graph.json~240cfb0e,.nx/workspace-data/file-map.json~240cfb0e
+[NX Daemon Server] - 2024-07-30T19:09:06.618Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:06.618Z - Time taken for 'hash changed files from watcher' 3.0196000039577484ms
+[NX Daemon Server] - 2024-07-30T19:09:06.666Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:06.729Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:06.791Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:06.824Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:06.824Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:06.824Z - [REQUEST]: .nx/workspace-data/project-graph.json~4c25ffad,.nx/workspace-data/file-map.json~4c25ffad
+[NX Daemon Server] - 2024-07-30T19:09:06.834Z - Time taken for 'hash changed files from watcher' 2.834999993443489ms
+[NX Daemon Server] - 2024-07-30T19:09:06.853Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:06.915Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:06.962Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:06.962Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:06.962Z - [REQUEST]: .nx/workspace-data/project-graph.json~d0ccdd71,.nx/workspace-data/file-map.json~d0ccdd71
+[NX Daemon Server] - 2024-07-30T19:09:06.973Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:06.973Z - Time taken for 'hash changed files from watcher' 2.350400000810623ms
+[NX Daemon Server] - 2024-07-30T19:09:07.021Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:07.083Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:07.147Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:07.180Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:07.180Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:07.180Z - [REQUEST]: .nx/workspace-data/project-graph.json~6bda09ee,.nx/workspace-data/file-map.json~6bda09ee
+[NX Daemon Server] - 2024-07-30T19:09:07.197Z - Time taken for 'hash changed files from watcher' 2.486300006508827ms
+[NX Daemon Server] - 2024-07-30T19:09:07.210Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:07.271Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:07.322Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:07.322Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:07.322Z - [REQUEST]: .nx/workspace-data/file-map.json~32b7c313,.nx/workspace-data/project-graph.json~32b7c313
+[NX Daemon Server] - 2024-07-30T19:09:07.334Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:07.334Z - Time taken for 'hash changed files from watcher' 4.166900008916855ms
+[NX Daemon Server] - 2024-07-30T19:09:07.397Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:07.458Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:07.521Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:07.539Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:07.539Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:07.539Z - [REQUEST]: .nx/workspace-data/project-graph.json~13566094,.nx/workspace-data/file-map.json~13566094
+[NX Daemon Server] - 2024-07-30T19:09:07.549Z - Time taken for 'hash changed files from watcher' 3.8247999995946884ms
+[NX Daemon Server] - 2024-07-30T19:09:07.582Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:07.645Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:07.693Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:07.693Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:07.693Z - [REQUEST]: .nx/workspace-data/project-graph.json~91252f61,.nx/workspace-data/file-map.json~91252f61
+[NX Daemon Server] - 2024-07-30T19:09:07.706Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:07.706Z - Time taken for 'hash changed files from watcher' 2.6299000084400177ms
+[NX Daemon Server] - 2024-07-30T19:09:07.769Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:07.831Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:07.893Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:07.910Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:07.910Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:07.910Z - [REQUEST]: .nx/workspace-data/file-map.json~66ac4bc9,.nx/workspace-data/project-graph.json~66ac4bc9
+[NX Daemon Server] - 2024-07-30T19:09:07.923Z - Time taken for 'hash changed files from watcher' 2.4317000061273575ms
+[NX Daemon Server] - 2024-07-30T19:09:07.955Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:08.016Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:08.064Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:08.064Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:08.064Z - [REQUEST]: .nx/workspace-data/file-map.json~ca67127b,.nx/workspace-data/project-graph.json~ca67127b
+[NX Daemon Server] - 2024-07-30T19:09:08.075Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:08.075Z - Time taken for 'hash changed files from watcher' 2.360500007867813ms
+[NX Daemon Server] - 2024-07-30T19:09:08.124Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:08.185Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:08.248Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:08.281Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:08.281Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:08.281Z - [REQUEST]: .nx/workspace-data/project-graph.json~c1fc9cda,.nx/workspace-data/file-map.json~c1fc9cda
+[NX Daemon Server] - 2024-07-30T19:09:08.292Z - Time taken for 'hash changed files from watcher' 2.293400004506111ms
+[NX Daemon Server] - 2024-07-30T19:09:08.310Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:08.372Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:08.421Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:08.421Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:08.421Z - [REQUEST]: .nx/workspace-data/file-map.json~f1e151f4,.nx/workspace-data/project-graph.json~f1e151f4
+[NX Daemon Server] - 2024-07-30T19:09:08.432Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:08.433Z - Time taken for 'hash changed files from watcher' 3.6926999986171722ms
+[NX Daemon Server] - 2024-07-30T19:09:08.480Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:08.542Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:08.603Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:08.637Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:08.637Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:08.637Z - [REQUEST]: .nx/workspace-data/file-map.json~eba871b7,.nx/workspace-data/project-graph.json~eba871b7
+[NX Daemon Server] - 2024-07-30T19:09:08.646Z - Time taken for 'hash changed files from watcher' 2.5939000099897385ms
+[NX Daemon Server] - 2024-07-30T19:09:08.666Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:08.727Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:08.774Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:08.774Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:08.774Z - [REQUEST]: .nx/workspace-data/project-graph.json~1248ca10,.nx/workspace-data/file-map.json~1248ca10
+[NX Daemon Server] - 2024-07-30T19:09:08.784Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:08.784Z - Time taken for 'hash changed files from watcher' 2.247400000691414ms
+[NX Daemon Server] - 2024-07-30T19:09:08.833Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:08.894Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:08.956Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:08.990Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:08.990Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:08.990Z - [REQUEST]: .nx/workspace-data/file-map.json~714e8911,.nx/workspace-data/project-graph.json~714e8911
+[NX Daemon Server] - 2024-07-30T19:09:08.999Z - Time taken for 'hash changed files from watcher' 2.5591000020504ms
+[NX Daemon Server] - 2024-07-30T19:09:09.019Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:09.080Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:09.128Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:09.128Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:09.128Z - [REQUEST]: .nx/workspace-data/project-graph.json~fc2cad3e,.nx/workspace-data/file-map.json~fc2cad3e
+[NX Daemon Server] - 2024-07-30T19:09:09.138Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:09.138Z - Time taken for 'hash changed files from watcher' 2.339599996805191ms
+[NX Daemon Server] - 2024-07-30T19:09:09.189Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:09.250Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:09.313Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:09.345Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:09.345Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:09.345Z - [REQUEST]: .nx/workspace-data/project-graph.json~d9274ea8,.nx/workspace-data/file-map.json~d9274ea8
+[NX Daemon Server] - 2024-07-30T19:09:09.354Z - Time taken for 'hash changed files from watcher' 2.5468000024557114ms
+[NX Daemon Server] - 2024-07-30T19:09:09.373Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:09.435Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:09.484Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:09.484Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:09.484Z - [REQUEST]: .nx/workspace-data/project-graph.json~240c6202,.nx/workspace-data/file-map.json~240c6202
+[NX Daemon Server] - 2024-07-30T19:09:09.496Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:09.496Z - Time taken for 'hash changed files from watcher' 2.280100002884865ms
+[NX Daemon Server] - 2024-07-30T19:09:09.545Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:09.606Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:09.666Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:09.698Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:09.699Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:09.699Z - [REQUEST]: .nx/workspace-data/project-graph.json~949fecd3,.nx/workspace-data/file-map.json~949fecd3
+[NX Daemon Server] - 2024-07-30T19:09:09.709Z - Time taken for 'hash changed files from watcher' 2.4024000018835068ms
+[NX Daemon Server] - 2024-07-30T19:09:09.728Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:09.790Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:09.837Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:09.837Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:09.837Z - [REQUEST]: .nx/workspace-data/project-graph.json~773c298f,.nx/workspace-data/file-map.json~773c298f
+[NX Daemon Server] - 2024-07-30T19:09:09.847Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:09.847Z - Time taken for 'hash changed files from watcher' 2.320000007748604ms
+[NX Daemon Server] - 2024-07-30T19:09:09.898Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:09.961Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:10.021Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:10.055Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:10.055Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:10.055Z - [REQUEST]: .nx/workspace-data/project-graph.json~dce6147e,.nx/workspace-data/file-map.json~dce6147e
+[NX Daemon Server] - 2024-07-30T19:09:10.065Z - Time taken for 'hash changed files from watcher' 2.6028999984264374ms
+[NX Daemon Server] - 2024-07-30T19:09:10.083Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:10.145Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:10.193Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:10.193Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:10.193Z - [REQUEST]: .nx/workspace-data/file-map.json~6cd57f8e,.nx/workspace-data/project-graph.json~6cd57f8e
+[NX Daemon Server] - 2024-07-30T19:09:10.205Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:10.206Z - Time taken for 'hash changed files from watcher' 2.4642000049352646ms
+[NX Daemon Server] - 2024-07-30T19:09:10.267Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:10.329Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:10.391Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:10.424Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:10.424Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:10.424Z - [REQUEST]: .nx/workspace-data/project-graph.json~5340d7c6,.nx/workspace-data/file-map.json~5340d7c6
+[NX Daemon Server] - 2024-07-30T19:09:10.436Z - Time taken for 'hash changed files from watcher' 2.7096000015735626ms
+[NX Daemon Server] - 2024-07-30T19:09:10.453Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:10.513Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:10.560Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:10.560Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:10.560Z - [REQUEST]: .nx/workspace-data/file-map.json~9e4d7b43,.nx/workspace-data/project-graph.json~9e4d7b43
+[NX Daemon Server] - 2024-07-30T19:09:10.573Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:10.573Z - Time taken for 'hash changed files from watcher' 2.072400003671646ms
+[NX Daemon Server] - 2024-07-30T19:09:10.620Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:10.683Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:10.745Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:10.778Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:10.778Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:10.778Z - [REQUEST]: .nx/workspace-data/file-map.json~9feb84a5,.nx/workspace-data/project-graph.json~9feb84a5
+[NX Daemon Server] - 2024-07-30T19:09:10.791Z - Time taken for 'hash changed files from watcher' 2.6896000057458878ms
+[NX Daemon Server] - 2024-07-30T19:09:10.808Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:10.870Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:10.920Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:10.920Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:10.920Z - [REQUEST]: .nx/workspace-data/project-graph.json~b7dc096c,.nx/workspace-data/file-map.json~b7dc096c
+[NX Daemon Server] - 2024-07-30T19:09:10.934Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:10.934Z - Time taken for 'hash changed files from watcher' 2.5078000128269196ms
+[NX Daemon Server] - 2024-07-30T19:09:10.995Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:11.056Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:11.118Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:11.150Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:11.150Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:11.150Z - [REQUEST]: .nx/workspace-data/project-graph.json~ded89fed,.nx/workspace-data/file-map.json~ded89fed
+[NX Daemon Server] - 2024-07-30T19:09:11.160Z - Time taken for 'hash changed files from watcher' 2.4839999973773956ms
+[NX Daemon Server] - 2024-07-30T19:09:11.178Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:11.240Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:11.290Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:11.291Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:11.291Z - [REQUEST]: .nx/workspace-data/file-map.json~224c0c96,.nx/workspace-data/project-graph.json~224c0c96
+[NX Daemon Server] - 2024-07-30T19:09:11.301Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:11.301Z - Time taken for 'hash changed files from watcher' 4.008799999952316ms
+[NX Daemon Server] - 2024-07-30T19:09:11.364Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:11.426Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:11.487Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:11.504Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:11.504Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:11.504Z - [REQUEST]: .nx/workspace-data/file-map.json~c431ca71,.nx/workspace-data/project-graph.json~c431ca71
+[NX Daemon Server] - 2024-07-30T19:09:11.516Z - Time taken for 'hash changed files from watcher' 2.460899993777275ms
+[NX Daemon Server] - 2024-07-30T19:09:11.548Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:11.610Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:11.660Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:11.660Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:11.660Z - [REQUEST]: .nx/workspace-data/file-map.json~4183ff4f,.nx/workspace-data/project-graph.json~4183ff4f
+[NX Daemon Server] - 2024-07-30T19:09:11.672Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:11.673Z - Time taken for 'hash changed files from watcher' 2.4976000040769577ms
+[NX Daemon Server] - 2024-07-30T19:09:11.721Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:11.783Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:11.844Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:11.877Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:11.877Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:11.878Z - [REQUEST]: .nx/workspace-data/project-graph.json~8088580a,.nx/workspace-data/file-map.json~8088580a
+[NX Daemon Server] - 2024-07-30T19:09:11.888Z - Time taken for 'hash changed files from watcher' 2.464499995112419ms
+[NX Daemon Server] - 2024-07-30T19:09:11.906Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:11.966Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.016Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:12.016Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:12.016Z - [REQUEST]: .nx/workspace-data/file-map.json~1599d1a9,.nx/workspace-data/project-graph.json~1599d1a9
+[NX Daemon Server] - 2024-07-30T19:09:12.026Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.026Z - Time taken for 'hash changed files from watcher' 2.4806000143289566ms
+[NX Daemon Server] - 2024-07-30T19:09:12.075Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:12.135Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.196Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.243Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:12.243Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:12.243Z - [REQUEST]: .nx/workspace-data/project-graph.json~18600b1a,.nx/workspace-data/file-map.json~18600b1a
+[NX Daemon Server] - 2024-07-30T19:09:12.253Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:12.253Z - Time taken for 'hash changed files from watcher' 2.3572999984025955ms
+[NX Daemon Server] - 2024-07-30T19:09:12.302Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:12.365Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.428Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.462Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:12.462Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:12.462Z - [REQUEST]: .nx/workspace-data/file-map.json~8050d11b,.nx/workspace-data/project-graph.json~8050d11b
+[NX Daemon Server] - 2024-07-30T19:09:12.472Z - Time taken for 'hash changed files from watcher' 2.8302000015974045ms
+[NX Daemon Server] - 2024-07-30T19:09:12.490Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:12.553Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.606Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:12.606Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:12.606Z - [REQUEST]: .nx/workspace-data/project-graph.json~1b8d4707,.nx/workspace-data/file-map.json~1b8d4707
+[NX Daemon Server] - 2024-07-30T19:09:12.618Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:12.618Z - Time taken for 'hash changed files from watcher' 4.003100007772446ms
+[NX Daemon Server] - 2024-07-30T19:09:12.675Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:12.737Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.799Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.833Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:12.833Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:12.833Z - [REQUEST]: .nx/workspace-data/project-graph.json~a320d271,.nx/workspace-data/file-map.json~a320d271
+[NX Daemon Server] - 2024-07-30T19:09:12.843Z - Time taken for 'hash changed files from watcher' 3.700299993157387ms
+[NX Daemon Server] - 2024-07-30T19:09:12.861Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:12.922Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.971Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:12.971Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:12.971Z - [REQUEST]: .nx/workspace-data/project-graph.json~8fc5bfa0,.nx/workspace-data/file-map.json~8fc5bfa0
+[NX Daemon Server] - 2024-07-30T19:09:12.984Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:12.984Z - Time taken for 'hash changed files from watcher' 2.309599995613098ms
+[NX Daemon Server] - 2024-07-30T19:09:13.047Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:13.110Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:13.171Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:13.189Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:13.189Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:13.189Z - [REQUEST]: .nx/workspace-data/project-graph.json~99517d7e,.nx/workspace-data/file-map.json~99517d7e
+[NX Daemon Server] - 2024-07-30T19:09:13.202Z - Time taken for 'hash changed files from watcher' 2.7757000029087067ms
+[NX Daemon Server] - 2024-07-30T19:09:13.232Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:13.295Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:13.343Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:13.343Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:13.343Z - [REQUEST]: .nx/workspace-data/file-map.json~92d42b08,.nx/workspace-data/project-graph.json~92d42b08
+[NX Daemon Server] - 2024-07-30T19:09:13.356Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:13.356Z - Time taken for 'hash changed files from watcher' 2.3391000032424927ms
+[NX Daemon Server] - 2024-07-30T19:09:13.402Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:13.464Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:13.526Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:13.559Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:13.559Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:13.559Z - [REQUEST]: .nx/workspace-data/file-map.json~3b09d661,.nx/workspace-data/project-graph.json~3b09d661
+[NX Daemon Server] - 2024-07-30T19:09:13.571Z - Time taken for 'hash changed files from watcher' 2.5782999992370605ms
+[NX Daemon Server] - 2024-07-30T19:09:13.588Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:13.649Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:13.698Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:13.698Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:13.698Z - [REQUEST]: .nx/workspace-data/project-graph.json~9f4d566d,.nx/workspace-data/file-map.json~9f4d566d
+[NX Daemon Server] - 2024-07-30T19:09:13.709Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:13.709Z - Time taken for 'hash changed files from watcher' 2.275299996137619ms
+[NX Daemon Server] - 2024-07-30T19:09:13.758Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:13.819Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:13.881Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:13.914Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:13.914Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:13.914Z - [REQUEST]: .nx/workspace-data/project-graph.json~fc9040b1,.nx/workspace-data/file-map.json~fc9040b1
+[NX Daemon Server] - 2024-07-30T19:09:13.924Z - Time taken for 'hash changed files from watcher' 2.7344000041484833ms
+[NX Daemon Server] - 2024-07-30T19:09:13.944Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:14.007Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.056Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:14.056Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:14.056Z - [REQUEST]: .nx/workspace-data/project-graph.json~e7f38108,.nx/workspace-data/file-map.json~e7f38108
+[NX Daemon Server] - 2024-07-30T19:09:14.066Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.066Z - Time taken for 'hash changed files from watcher' 2.8094999939203262ms
+[NX Daemon Server] - 2024-07-30T19:09:14.115Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:14.176Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.238Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.270Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:14.270Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:14.270Z - [REQUEST]: .nx/workspace-data/project-graph.json~706784d6,.nx/workspace-data/file-map.json~706784d6
+[NX Daemon Server] - 2024-07-30T19:09:14.280Z - Time taken for 'hash changed files from watcher' 2.4174000024795532ms
+[NX Daemon Server] - 2024-07-30T19:09:14.299Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:14.360Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.408Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:14.409Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:14.409Z - [REQUEST]: .nx/workspace-data/project-graph.json~a2e4526a,.nx/workspace-data/file-map.json~a2e4526a
+[NX Daemon Server] - 2024-07-30T19:09:14.420Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:14.420Z - Time taken for 'hash changed files from watcher' 2.5340999960899353ms
+[NX Daemon Server] - 2024-07-30T19:09:14.468Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:14.531Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.594Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.626Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:14.626Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:14.626Z - [REQUEST]: .nx/workspace-data/file-map.json~ed96d47e,.nx/workspace-data/project-graph.json~ed96d47e
+[NX Daemon Server] - 2024-07-30T19:09:14.639Z - Time taken for 'hash changed files from watcher' 2.5210999995470047ms
+[NX Daemon Server] - 2024-07-30T19:09:14.656Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:14.718Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.767Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:14.767Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:14.767Z - [REQUEST]: .nx/workspace-data/project-graph.json~f88a296f,.nx/workspace-data/file-map.json~f88a296f
+[NX Daemon Server] - 2024-07-30T19:09:14.777Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.777Z - Time taken for 'hash changed files from watcher' 2.3409999907016754ms
+[NX Daemon Server] - 2024-07-30T19:09:14.828Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:14.889Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.951Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:14.984Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:14.984Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:14.984Z - [REQUEST]: .nx/workspace-data/project-graph.json~ca2439be,.nx/workspace-data/file-map.json~ca2439be
+[NX Daemon Server] - 2024-07-30T19:09:14.995Z - Time taken for 'hash changed files from watcher' 2.4127000123262405ms
+[NX Daemon Server] - 2024-07-30T19:09:15.013Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:15.076Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:15.124Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:15.124Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:15.124Z - [REQUEST]: .nx/workspace-data/file-map.json~819a6566,.nx/workspace-data/project-graph.json~819a6566
+[NX Daemon Server] - 2024-07-30T19:09:15.135Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:15.136Z - Time taken for 'hash changed files from watcher' 2.324200004339218ms
+[NX Daemon Server] - 2024-07-30T19:09:15.182Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:15.244Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:15.305Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:15.339Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:15.339Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:15.339Z - [REQUEST]: .nx/workspace-data/file-map.json~00dbde96,.nx/workspace-data/project-graph.json~00dbde96
+[NX Daemon Server] - 2024-07-30T19:09:15.350Z - Time taken for 'hash changed files from watcher' 2.5041999965906143ms
+[NX Daemon Server] - 2024-07-30T19:09:15.368Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:15.430Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:15.480Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:15.480Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:15.480Z - [REQUEST]: .nx/workspace-data/project-graph.json~7cf6dffb,.nx/workspace-data/file-map.json~7cf6dffb
+[NX Daemon Server] - 2024-07-30T19:09:15.491Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:15.491Z - Time taken for 'hash changed files from watcher' 3.9794999957084656ms
+[NX Daemon Server] - 2024-07-30T19:09:15.540Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:15.603Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:15.665Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:15.698Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:15.698Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:15.698Z - [REQUEST]: .nx/workspace-data/project-graph.json~3c3f7e80,.nx/workspace-data/file-map.json~3c3f7e80
+[NX Daemon Server] - 2024-07-30T19:09:15.707Z - Time taken for 'hash changed files from watcher' 2.5203999876976013ms
+[NX Daemon Server] - 2024-07-30T19:09:15.727Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:15.789Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:15.838Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:15.838Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:15.838Z - [REQUEST]: .nx/workspace-data/file-map.json~97a80fae,.nx/workspace-data/project-graph.json~97a80fae
+[NX Daemon Server] - 2024-07-30T19:09:15.848Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:15.848Z - Time taken for 'hash changed files from watcher' 2.4560000002384186ms
+[NX Daemon Server] - 2024-07-30T19:09:15.898Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:15.960Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.022Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.055Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:16.055Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:16.055Z - [REQUEST]: .nx/workspace-data/file-map.json~8ff9da48,.nx/workspace-data/project-graph.json~8ff9da48
+[NX Daemon Server] - 2024-07-30T19:09:16.066Z - Time taken for 'hash changed files from watcher' 2.412000000476837ms
+[NX Daemon Server] - 2024-07-30T19:09:16.084Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:16.146Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.196Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:16.196Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:16.196Z - [REQUEST]: .nx/workspace-data/file-map.json~f0d469d1,.nx/workspace-data/project-graph.json~f0d469d1
+[NX Daemon Server] - 2024-07-30T19:09:16.206Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.206Z - Time taken for 'hash changed files from watcher' 4.4552000015974045ms
+[NX Daemon Server] - 2024-07-30T19:09:16.255Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:16.316Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.378Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.411Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:16.411Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:16.411Z - [REQUEST]: .nx/workspace-data/project-graph.json~c53e8374,.nx/workspace-data/file-map.json~c53e8374
+[NX Daemon Server] - 2024-07-30T19:09:16.424Z - Time taken for 'hash changed files from watcher' 2.5338999927043915ms
+[NX Daemon Server] - 2024-07-30T19:09:16.440Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:16.501Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.549Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:16.549Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:16.549Z - [REQUEST]: .nx/workspace-data/file-map.json~acfa4732,.nx/workspace-data/project-graph.json~acfa4732
+[NX Daemon Server] - 2024-07-30T19:09:16.561Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:16.561Z - Time taken for 'hash changed files from watcher' 2.2819999903440475ms
+[NX Daemon Server] - 2024-07-30T19:09:16.609Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:16.671Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.733Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.767Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:16.767Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:16.767Z - [REQUEST]: .nx/workspace-data/project-graph.json~bf6ee3ad,.nx/workspace-data/file-map.json~bf6ee3ad
+[NX Daemon Server] - 2024-07-30T19:09:16.777Z - Time taken for 'hash changed files from watcher' 2.634900003671646ms
+[NX Daemon Server] - 2024-07-30T19:09:16.796Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:16.858Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.907Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:16.907Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:16.907Z - [REQUEST]: .nx/workspace-data/file-map.json~f3a34bc0,.nx/workspace-data/project-graph.json~f3a34bc0
+[NX Daemon Server] - 2024-07-30T19:09:16.917Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:16.917Z - Time taken for 'hash changed files from watcher' 2.5394999980926514ms
+[NX Daemon Server] - 2024-07-30T19:09:16.966Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:17.027Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:17.089Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:17.122Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:17.122Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:17.122Z - [REQUEST]: .nx/workspace-data/file-map.json~c5841f12,.nx/workspace-data/project-graph.json~c5841f12
+[NX Daemon Server] - 2024-07-30T19:09:17.135Z - Time taken for 'hash changed files from watcher' 2.624200001358986ms
+[NX Daemon Server] - 2024-07-30T19:09:17.150Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:17.212Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:17.262Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:17.262Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:17.262Z - [REQUEST]: .nx/workspace-data/project-graph.json~f7d90783,.nx/workspace-data/file-map.json~f7d90783
+[NX Daemon Server] - 2024-07-30T19:09:17.273Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:17.273Z - Time taken for 'hash changed files from watcher' 2.2231999933719635ms
+[NX Daemon Server] - 2024-07-30T19:09:17.334Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:17.397Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:17.459Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:17.479Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:17.479Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:17.479Z - [REQUEST]: .nx/workspace-data/file-map.json~6368d8a2,.nx/workspace-data/project-graph.json~6368d8a2
+[NX Daemon Server] - 2024-07-30T19:09:17.489Z - Time taken for 'hash changed files from watcher' 4.354100003838539ms
+[NX Daemon Server] - 2024-07-30T19:09:17.521Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:17.584Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:17.631Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:17.631Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:17.631Z - [REQUEST]: .nx/workspace-data/project-graph.json~377a4747,.nx/workspace-data/file-map.json~377a4747
+[NX Daemon Server] - 2024-07-30T19:09:17.644Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:17.644Z - Time taken for 'hash changed files from watcher' 2.336999997496605ms
+[NX Daemon Server] - 2024-07-30T19:09:17.707Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:17.767Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:17.830Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:17.847Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:17.847Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:17.847Z - [REQUEST]: .nx/workspace-data/project-graph.json~7ce84e51,.nx/workspace-data/file-map.json~7ce84e51
+[NX Daemon Server] - 2024-07-30T19:09:17.861Z - Time taken for 'hash changed files from watcher' 2.383099988102913ms
+[NX Daemon Server] - 2024-07-30T19:09:17.892Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:17.955Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:18.004Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:18.004Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:18.004Z - [REQUEST]: .nx/workspace-data/file-map.json~0c20bc8f,.nx/workspace-data/project-graph.json~0c20bc8f
+[NX Daemon Server] - 2024-07-30T19:09:18.017Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:18.017Z - Time taken for 'hash changed files from watcher' 2.6075000017881393ms
+[NX Daemon Server] - 2024-07-30T19:09:18.080Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:18.141Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:18.204Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:18.222Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:18.222Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:18.222Z - [REQUEST]: .nx/workspace-data/project-graph.json~24a798a8,.nx/workspace-data/file-map.json~24a798a8
+[NX Daemon Server] - 2024-07-30T19:09:18.231Z - Time taken for 'hash changed files from watcher' 2.0930000096559525ms
+[NX Daemon Server] - 2024-07-30T19:09:18.268Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:18.330Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:18.378Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:18.378Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:18.378Z - [REQUEST]: .nx/workspace-data/file-map.json~1ac15a64,.nx/workspace-data/project-graph.json~1ac15a64
+[NX Daemon Server] - 2024-07-30T19:09:18.388Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:18.389Z - Time taken for 'hash changed files from watcher' 2.168600007891655ms
+[NX Daemon Server] - 2024-07-30T19:09:18.438Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:18.500Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:18.564Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:18.598Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:18.598Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:18.598Z - [REQUEST]: .nx/workspace-data/file-map.json~5921f0ce,.nx/workspace-data/project-graph.json~5921f0ce
+[NX Daemon Server] - 2024-07-30T19:09:18.609Z - Time taken for 'hash changed files from watcher' 2.3456999957561493ms
+[NX Daemon Server] - 2024-07-30T19:09:18.626Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:18.690Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:18.737Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:18.737Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:18.737Z - [REQUEST]: .nx/workspace-data/project-graph.json~f7a76168,.nx/workspace-data/file-map.json~f7a76168
+[NX Daemon Server] - 2024-07-30T19:09:18.747Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:18.747Z - Time taken for 'hash changed files from watcher' 2.524599999189377ms
+[NX Daemon Server] - 2024-07-30T19:09:18.797Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:18.858Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:18.920Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:18.953Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:18.953Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:18.953Z - [REQUEST]: .nx/workspace-data/file-map.json~4ceddbc4,.nx/workspace-data/project-graph.json~4ceddbc4
+[NX Daemon Server] - 2024-07-30T19:09:18.963Z - Time taken for 'hash changed files from watcher' 2.5016999989748ms
+[NX Daemon Server] - 2024-07-30T19:09:18.982Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:19.045Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:19.093Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:19.093Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:19.093Z - [REQUEST]: .nx/workspace-data/project-graph.json~54436dde,.nx/workspace-data/file-map.json~54436dde
+[NX Daemon Server] - 2024-07-30T19:09:19.105Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:19.105Z - Time taken for 'hash changed files from watcher' 2.3057000041007996ms
+[NX Daemon Server] - 2024-07-30T19:09:19.154Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:19.215Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:19.277Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:19.310Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:19.310Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:19.310Z - [REQUEST]: .nx/workspace-data/file-map.json~143f5619,.nx/workspace-data/project-graph.json~143f5619
+[NX Daemon Server] - 2024-07-30T19:09:19.321Z - Time taken for 'hash changed files from watcher' 2.4829999953508377ms
+[NX Daemon Server] - 2024-07-30T19:09:19.339Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:19.401Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:19.450Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:19.450Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:19.450Z - [REQUEST]: .nx/workspace-data/file-map.json~1b7f28b6,.nx/workspace-data/project-graph.json~1b7f28b6
+[NX Daemon Server] - 2024-07-30T19:09:19.461Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:19.461Z - Time taken for 'hash changed files from watcher' 2.497099995613098ms
+[NX Daemon Server] - 2024-07-30T19:09:19.510Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:19.572Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:19.632Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:19.667Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:19.667Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:19.667Z - [REQUEST]: .nx/workspace-data/project-graph.json~bdd28165,.nx/workspace-data/file-map.json~bdd28165
+[NX Daemon Server] - 2024-07-30T19:09:19.679Z - Time taken for 'hash changed files from watcher' 3.9866999983787537ms
+[NX Daemon Server] - 2024-07-30T19:09:19.695Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:19.756Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:19.804Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:19.804Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:19.804Z - [REQUEST]: .nx/workspace-data/project-graph.json~238d0b0a,.nx/workspace-data/file-map.json~238d0b0a
+[NX Daemon Server] - 2024-07-30T19:09:19.814Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:19.814Z - Time taken for 'hash changed files from watcher' 2.312399998307228ms
+[NX Daemon Server] - 2024-07-30T19:09:19.864Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:19.924Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:19.988Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:20.020Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:20.020Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:20.020Z - [REQUEST]: .nx/workspace-data/project-graph.json~6073fffc,.nx/workspace-data/file-map.json~6073fffc
+[NX Daemon Server] - 2024-07-30T19:09:20.031Z - Time taken for 'hash changed files from watcher' 2.471799999475479ms
+[NX Daemon Server] - 2024-07-30T19:09:20.049Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:20.109Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:20.157Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:20.157Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:20.157Z - [REQUEST]: .nx/workspace-data/file-map.json~931ba5a1,.nx/workspace-data/project-graph.json~931ba5a1
+[NX Daemon Server] - 2024-07-30T19:09:20.169Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:20.169Z - Time taken for 'hash changed files from watcher' 2.4179999977350235ms
+[NX Daemon Server] - 2024-07-30T19:09:20.217Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:20.280Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:20.342Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:20.375Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:20.375Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:20.375Z - [REQUEST]: .nx/workspace-data/project-graph.json~e5296e2c,.nx/workspace-data/file-map.json~e5296e2c
+[NX Daemon Server] - 2024-07-30T19:09:20.386Z - Time taken for 'hash changed files from watcher' 2.417500004172325ms
+[NX Daemon Server] - 2024-07-30T19:09:20.404Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:20.465Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:20.514Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:20.514Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:20.514Z - [REQUEST]: .nx/workspace-data/file-map.json~c5b80b67,.nx/workspace-data/project-graph.json~c5b80b67
+[NX Daemon Server] - 2024-07-30T19:09:20.525Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:20.525Z - Time taken for 'hash changed files from watcher' 2.700100004673004ms
+[NX Daemon Server] - 2024-07-30T19:09:20.574Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:20.636Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:20.698Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:20.732Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:20.732Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:20.732Z - [REQUEST]: .nx/workspace-data/project-graph.json~526b4ee5,.nx/workspace-data/file-map.json~526b4ee5
+[NX Daemon Server] - 2024-07-30T19:09:20.742Z - Time taken for 'hash changed files from watcher' 2.4743999987840652ms
+[NX Daemon Server] - 2024-07-30T19:09:20.760Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:20.823Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:20.873Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:20.873Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:20.873Z - [REQUEST]: .nx/workspace-data/file-map.json~b713f841,.nx/workspace-data/project-graph.json~b713f841
+[NX Daemon Server] - 2024-07-30T19:09:20.884Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:20.884Z - Time taken for 'hash changed files from watcher' 2.3847000002861023ms
+[NX Daemon Server] - 2024-07-30T19:09:20.935Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:20.996Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:21.059Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:21.092Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:21.092Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:21.092Z - [REQUEST]: .nx/workspace-data/file-map.json~3503bba0,.nx/workspace-data/project-graph.json~3503bba0
+[NX Daemon Server] - 2024-07-30T19:09:21.104Z - Time taken for 'hash changed files from watcher' 2.4305000007152557ms
+[NX Daemon Server] - 2024-07-30T19:09:21.121Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:21.180Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:21.230Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:21.230Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:21.230Z - [REQUEST]: .nx/workspace-data/project-graph.json~1979c536,.nx/workspace-data/file-map.json~1979c536
+[NX Daemon Server] - 2024-07-30T19:09:21.240Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:21.240Z - Time taken for 'hash changed files from watcher' 2.8453999906778336ms
+[NX Daemon Server] - 2024-07-30T19:09:21.290Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:21.353Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:21.410Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:21.443Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:21.443Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:21.443Z - [REQUEST]: .nx/workspace-data/project-graph.json~a3ba431f,.nx/workspace-data/file-map.json~a3ba431f
+[NX Daemon Server] - 2024-07-30T19:09:21.456Z - Time taken for 'hash changed files from watcher' 2.753800004720688ms
+[NX Daemon Server] - 2024-07-30T19:09:21.472Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:21.535Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:21.584Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:21.584Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:21.584Z - [REQUEST]: .nx/workspace-data/project-graph.json~0119a777,.nx/workspace-data/file-map.json~0119a777
+[NX Daemon Server] - 2024-07-30T19:09:21.595Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:21.595Z - Time taken for 'hash changed files from watcher' 2.50280000269413ms
+[NX Daemon Server] - 2024-07-30T19:09:21.644Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:21.706Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:21.768Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:21.801Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:21.801Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:21.801Z - [REQUEST]: .nx/workspace-data/file-map.json~ae921818,.nx/workspace-data/project-graph.json~ae921818
+[NX Daemon Server] - 2024-07-30T19:09:21.811Z - Time taken for 'hash changed files from watcher' 2.9078999906778336ms
+[NX Daemon Server] - 2024-07-30T19:09:21.829Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:21.890Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:21.939Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:21.939Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:21.939Z - [REQUEST]: .nx/workspace-data/file-map.json~c5355ad5,.nx/workspace-data/project-graph.json~c5355ad5
+[NX Daemon Server] - 2024-07-30T19:09:21.951Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:21.951Z - Time taken for 'hash changed files from watcher' 2.7267999947071075ms
+[NX Daemon Server] - 2024-07-30T19:09:22.013Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:22.075Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:22.137Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:22.155Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:22.155Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:22.155Z - [REQUEST]: .nx/workspace-data/file-map.json~168388fa,.nx/workspace-data/project-graph.json~168388fa
+[NX Daemon Server] - 2024-07-30T19:09:22.165Z - Time taken for 'hash changed files from watcher' 2.679199993610382ms
+[NX Daemon Server] - 2024-07-30T19:09:22.199Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:22.261Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:22.310Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:22.310Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:22.310Z - [REQUEST]: .nx/workspace-data/project-graph.json~5d6b7b1d,.nx/workspace-data/file-map.json~5d6b7b1d
+[NX Daemon Server] - 2024-07-30T19:09:22.321Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:22.321Z - Time taken for 'hash changed files from watcher' 2.350800007581711ms
+[NX Daemon Server] - 2024-07-30T19:09:22.371Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:22.433Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:22.496Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:22.529Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:22.529Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:22.529Z - [REQUEST]: .nx/workspace-data/file-map.json~fccf476e,.nx/workspace-data/project-graph.json~fccf476e
+[NX Daemon Server] - 2024-07-30T19:09:22.544Z - Time taken for 'hash changed files from watcher' 1.0420999974012375ms
+[NX Daemon Server] - 2024-07-30T19:09:22.559Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:22.621Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:22.667Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:22.667Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:22.667Z - [REQUEST]: .nx/workspace-data/file-map.json~8560f249,.nx/workspace-data/project-graph.json~8560f249
+[NX Daemon Server] - 2024-07-30T19:09:22.679Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:22.679Z - Time taken for 'hash changed files from watcher' 1.009200006723404ms
+[NX Daemon Server] - 2024-07-30T19:09:22.730Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:22.792Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:22.854Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:22.887Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:22.887Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:22.887Z - [REQUEST]: .nx/workspace-data/project-graph.json~40396c73,.nx/workspace-data/file-map.json~40396c73
+[NX Daemon Server] - 2024-07-30T19:09:22.897Z - Time taken for 'hash changed files from watcher' 2.4127999991178513ms
+[NX Daemon Server] - 2024-07-30T19:09:22.915Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:22.978Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:23.026Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:23.026Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:23.026Z - [REQUEST]: .nx/workspace-data/project-graph.json~315b0be8,.nx/workspace-data/file-map.json~315b0be8
+[NX Daemon Server] - 2024-07-30T19:09:23.036Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:23.036Z - Time taken for 'hash changed files from watcher' 2.5304999947547913ms
+[NX Daemon Server] - 2024-07-30T19:09:23.087Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:23.150Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:23.211Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:23.245Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:23.245Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:23.245Z - [REQUEST]: .nx/workspace-data/project-graph.json~f0f72503,.nx/workspace-data/file-map.json~f0f72503
+[NX Daemon Server] - 2024-07-30T19:09:23.256Z - Time taken for 'hash changed files from watcher' 2.6972000002861023ms
+[NX Daemon Server] - 2024-07-30T19:09:23.272Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:23.335Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:23.386Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:23.386Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:23.386Z - [REQUEST]: .nx/workspace-data/project-graph.json~122b27a7,.nx/workspace-data/file-map.json~122b27a7
+[NX Daemon Server] - 2024-07-30T19:09:23.397Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:23.397Z - Time taken for 'hash changed files from watcher' 4.079999998211861ms
+[NX Daemon Server] - 2024-07-30T19:09:23.447Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:23.510Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:23.571Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:23.604Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:23.604Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:23.604Z - [REQUEST]: .nx/workspace-data/project-graph.json~6ca6771c,.nx/workspace-data/file-map.json~6ca6771c
+[NX Daemon Server] - 2024-07-30T19:09:23.615Z - Time taken for 'hash changed files from watcher' 2.619700014591217ms
+[NX Daemon Server] - 2024-07-30T19:09:23.631Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:23.692Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:23.740Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:23.740Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:23.740Z - [REQUEST]: .nx/workspace-data/file-map.json~8acaf5e8,.nx/workspace-data/project-graph.json~8acaf5e8
+[NX Daemon Server] - 2024-07-30T19:09:23.750Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:23.750Z - Time taken for 'hash changed files from watcher' 2.31980000436306ms
+[NX Daemon Server] - 2024-07-30T19:09:23.801Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:23.862Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:23.923Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:23.955Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:23.955Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:23.955Z - [REQUEST]: .nx/workspace-data/file-map.json~30d6c9ad,.nx/workspace-data/project-graph.json~30d6c9ad
+[NX Daemon Server] - 2024-07-30T19:09:23.966Z - Time taken for 'hash changed files from watcher' 2.587099999189377ms
+[NX Daemon Server] - 2024-07-30T19:09:23.983Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:24.046Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:24.095Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:24.095Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:24.095Z - [REQUEST]: .nx/workspace-data/project-graph.json~5d69cbce,.nx/workspace-data/file-map.json~5d69cbce
+[NX Daemon Server] - 2024-07-30T19:09:24.107Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:24.107Z - Time taken for 'hash changed files from watcher' 2.4488999992609024ms
+[NX Daemon Server] - 2024-07-30T19:09:24.155Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:24.216Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:24.278Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:24.311Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:24.311Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:24.311Z - [REQUEST]: .nx/workspace-data/project-graph.json~8d7675c1,.nx/workspace-data/file-map.json~8d7675c1
+[NX Daemon Server] - 2024-07-30T19:09:24.322Z - Time taken for 'hash changed files from watcher' 2.523299992084503ms
+[NX Daemon Server] - 2024-07-30T19:09:24.340Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:24.402Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:24.451Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:24.451Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:24.451Z - [REQUEST]: .nx/workspace-data/file-map.json~31743a97,.nx/workspace-data/project-graph.json~31743a97
+[NX Daemon Server] - 2024-07-30T19:09:24.461Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:24.461Z - Time taken for 'hash changed files from watcher' 2.218299999833107ms
+[NX Daemon Server] - 2024-07-30T19:09:24.511Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:24.573Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:24.634Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:24.667Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:24.667Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:24.667Z - [REQUEST]: .nx/workspace-data/file-map.json~ec39d0e8,.nx/workspace-data/project-graph.json~ec39d0e8
+[NX Daemon Server] - 2024-07-30T19:09:24.677Z - Time taken for 'hash changed files from watcher' 2.3796999901533127ms
+[NX Daemon Server] - 2024-07-30T19:09:24.699Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:24.759Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:24.806Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:24.806Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log
+[NX Daemon Server] - 2024-07-30T19:09:24.806Z - [REQUEST]: .nx/workspace-data/file-map.json~88926aab,.nx/workspace-data/project-graph.json~88926aab
+[NX Daemon Server] - 2024-07-30T19:09:24.816Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:24.816Z - Time taken for 'hash changed files from watcher' 2.408399999141693ms
+[NX Daemon Server] - 2024-07-30T19:09:24.865Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:24.928Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:24.990Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:25.023Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:25.024Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:25.024Z - [REQUEST]: .nx/workspace-data/project-graph.json~c8126359,.nx/workspace-data/file-map.json~c8126359
+[NX Daemon Server] - 2024-07-30T19:09:25.033Z - Time taken for 'hash changed files from watcher' 2.5698999911546707ms
+[NX Daemon Server] - 2024-07-30T19:09:25.052Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:25.115Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:25.163Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:25.163Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:25.163Z - [REQUEST]: .nx/workspace-data/file-map.json~3cffc0f8,.nx/workspace-data/project-graph.json~3cffc0f8
+[NX Daemon Server] - 2024-07-30T19:09:25.175Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:25.175Z - Time taken for 'hash changed files from watcher' 2.4117999970912933ms
+[NX Daemon Server] - 2024-07-30T19:09:25.223Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:25.283Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:25.346Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:25.378Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:25.378Z - [REQUEST]: .nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/playwright-5186013267177752385.hash
+[NX Daemon Server] - 2024-07-30T19:09:25.378Z - [REQUEST]: .nx/workspace-data/project-graph.json~1640d5c5,.nx/workspace-data/file-map.json~1640d5c5
+[NX Daemon Server] - 2024-07-30T19:09:25.391Z - Time taken for 'hash changed files from watcher' 2.3727999925613403ms
+[NX Daemon Server] - 2024-07-30T19:09:25.407Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:25.470Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:25.518Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:25.518Z - [REQUEST]: .nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:25.518Z - [REQUEST]: .nx/workspace-data/project-graph.json~011aa657,.nx/workspace-data/file-map.json~011aa657
+[NX Daemon Server] - 2024-07-30T19:09:25.530Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:25.530Z - Time taken for 'hash changed files from watcher' 2.574600011110306ms
+[NX Daemon Server] - 2024-07-30T19:09:25.579Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:25.641Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:25.704Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:25.737Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:25.737Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/webpack-17957109288680152952.hash,.nx/workspace-data/eslint-4393011795395336301.hash
+[NX Daemon Server] - 2024-07-30T19:09:25.737Z - [REQUEST]: .nx/workspace-data/file-map.json~961a8902,.nx/workspace-data/project-graph.json~961a8902
+[NX Daemon Server] - 2024-07-30T19:09:25.748Z - Time taken for 'hash changed files from watcher' 2.4659999907016754ms
+[NX Daemon Server] - 2024-07-30T19:09:25.766Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:25.829Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:25.878Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:25.878Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:25.878Z - [REQUEST]: .nx/workspace-data/file-map.json~f6539ec2,.nx/workspace-data/project-graph.json~f6539ec2
+[NX Daemon Server] - 2024-07-30T19:09:25.891Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:25.891Z - Time taken for 'hash changed files from watcher' 2.600500002503395ms
+[NX Daemon Server] - 2024-07-30T19:09:25.938Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:25.999Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:26.059Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:26.107Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:26.107Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/project-graph.json,.nx/workspace-data/file-map.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:26.107Z - [REQUEST]: .nx/workspace-data/project-graph.json~c349a946,.nx/workspace-data/file-map.json~c349a946
+[NX Daemon Server] - 2024-07-30T19:09:26.118Z - [WATCHER]: 0 file(s) created or restored, 2 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:26.118Z - Time taken for 'hash changed files from watcher' 2.582199990749359ms
+[NX Daemon Server] - 2024-07-30T19:09:26.169Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:26.231Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:26.293Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:26.325Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:26.325Z - [REQUEST]: .nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/d/daemon.log,.nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:26.325Z - [REQUEST]: .nx/workspace-data/file-map.json~477422e4,.nx/workspace-data/project-graph.json~477422e4
+[NX Daemon Server] - 2024-07-30T19:09:26.335Z - Time taken for 'hash changed files from watcher' 2.57430000603199ms
+[NX Daemon Server] - 2024-07-30T19:09:26.354Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
+[NX Daemon Server] - 2024-07-30T19:09:26.415Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:26.463Z - [REQUEST]: Updated workspace context based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2024-07-30T19:09:26.464Z - [REQUEST]: .nx/workspace-data/file-map.json,.nx/workspace-data/project-graph.json,.nx/workspace-data/d/daemon.log,.nx/workspace-data/playwright-5186013267177752385.hash,.nx/workspace-data/eslint-4393011795395336301.hash,.nx/workspace-data/webpack-17957109288680152952.hash
+[NX Daemon Server] - 2024-07-30T19:09:26.464Z - [REQUEST]: .nx/workspace-data/file-map.json~6156e7ca,.nx/workspace-data/project-graph.json~6156e7ca
+[NX Daemon Server] - 2024-07-30T19:09:26.474Z - [WATCHER]: .nx/workspace-data/d/daemon.log was modified
+[NX Daemon Server] - 2024-07-30T19:09:26.474Z - Time taken for 'hash changed files from watcher' 2.6239000111818314ms
+[NX Daemon Server] - 2024-07-30T19:09:26.525Z - [WATCHER]: 2 file(s) created or restored, 4 file(s) modified, 2 file(s) deleted
